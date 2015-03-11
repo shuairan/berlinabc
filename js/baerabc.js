@@ -17,8 +17,8 @@ var map;
 var groups = {};
 var icons = {};
 L.AwesomeMarkers.Icon.prototype.options.prefix = 'fa';
-icons['holgerklein'] = L.AwesomeMarkers.icon({markerColor: 'darkred', icon: 'train'});
-icons['katrin-roenicke'] = L.AwesomeMarkers.icon({markerColor: 'darkgreen', icon: 'train'});
+icons['holgerklein'] = L.AwesomeMarkers.icon({markerColor: 'darkpurple', icon: 'train'});
+icons['katrin-roenicke'] = L.AwesomeMarkers.icon({markerColor: 'orange', icon: 'train'});
 
 /*
  * prepare data
