@@ -1,4 +1,5 @@
-var TILES_URL = 'http://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
+var TILES_URL = "http://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png"
+
 var INITIAL_LOCATION = [52.518611, 13.408333];
 var INITIAL_ZOOM = 12;
 var ATTRIBUTION = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> ' +
