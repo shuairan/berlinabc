@@ -7,7 +7,10 @@ var ATTRIBUTION = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreet
                   'CartoDB</a>';
 
 var authors = ['katrin-roenicke', 'holgerklein']
-
+var authors_data = {
+    'katrin-roenicke' : 'Katrin Rönicke',
+    'holgerklein' : 'Holger Klein'
+     };
 
 var map;
 var groups = {};
@@ -24,13 +27,19 @@ $.each(authors, function( index, author ) {
 });
 
 
+function dateStr(date) {
+    return date.substr(0,16);
+}
+
 /*
  * Create pop html code
  */
 function getPopupHTML(data) {
     s = '<div class="popup">';
-    s += '<h1>' + data['title'] + '</h1>';
-    s += '<a href="' + data['link'] + '">' + data['title'] + '</a>';
+    s += '<h1><a href="' + data['link'] + '">' + data['title'] + '</a></h1>';
+    s += '<span class="popup-date">' + dateStr(data['published']) + '</span>';
+    s += ' von ';
+    s += '<span class="popup-author">' + authors_data[data['author']] + '</span>';
     s += '</div>';
     return s;
 }
