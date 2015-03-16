@@ -2,9 +2,16 @@ import json
 from pprint import pprint
 
 from fazcrawler import FazCrawler
+import wikicrawler
 
 json_data=open('berlinabc_simple.json')
 data = json.load(json_data)
+
+
+# get list of stations from Wikipedia:
+import itertools
+wikicat = [ 'Kategorie:Bahnhof_der_S-Bahn_Berlin', 'Kategorie:U-Bahnhof_in_Berlin' ]
+stations = list(itertools.chain(* [wikicrawler.get_page_list(s) for s in wikicat]))
 
 articles = []
 faz = FazCrawler('berlinabc')
