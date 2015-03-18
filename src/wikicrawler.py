@@ -4,9 +4,8 @@ import json
 import itertools
 import re
 
-
 WIKIPEDIA_API="https://de.wikipedia.org/w/api.php"
-    
+
 class WikiCrawler():
     def get_pages_from_category(self, category):
         """ http://de.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtype=page&cmlimit=500&cmtitle=CATEGORY """
@@ -35,7 +34,6 @@ class WikiCrawler():
         page = json['query']['pages']
         return [(c[0]['lat'], c[0]['lon']) for c in [page[key]['coordinates'] for key in page]][0]
 
-
     def wiki_request(self, params):
         data = urllib.parse.urlencode(params)
         #print(WIKIPEDIA_API + '?' + data)
@@ -46,6 +44,35 @@ class WikiCrawler():
         str_response = f.read().decode('utf-8')
         return json.loads(str_response)
 
+class Candidates():
+    def __init__(self):
+        self.candidates = []
+        self.seen = set()
+        self.blacklist = ['Bahnhof', 'Berlin', 'Liste', 'der', 'Bahnhöfe', 'Raum']
+        
+    def add(self, candidate):
+        if not candidate in self.seen and len(candidate) >= 4 and not candidate in self.blacklist:
+            self.seen.add(candidate)
+            self.candidates.append(candidate)
+    
+    def addList(self, clist):
+        #Todo: Improve!
+        for c in clist:
+            self.add(c)
+    
+    def addString(self, string):
+        self.add(string)
+        title_alpha = re.sub('[^0-9a-zA-Zäöüß]+', ' ', string)
+        self.add(title_alpha)
+        self.addList(title_alpha.split(" "))
+    
+    def get(self):
+        return self.candidates
+        
+    def empty(self):
+        self.seen = set()
+        self.candidates = []
+        
 class WikiStationCrawler(WikiCrawler):
     def __init__(self, categories):
         self.categories = categories
@@ -55,24 +82,25 @@ class WikiStationCrawler(WikiCrawler):
         return list(itertools.chain(* [self.get_pages_from_category(s) for s in categories]))
 
     def get_station_match(self, candidates):
-        print(candidates)
+        #print(candidates)
         for candidate in candidates:
             matches = list(filter(lambda s: candidate in s, self.stations))
             if matches:
-                print("Candidate %s has match %s" % (candidate, matches))
+                #print("Candidate %s has match %s" % (candidate, matches))
                 return matches[0]
         return None
 
     def find_station(self, article):
-        candidates = []
-        candidates.append(article["title"])
-        alphanumeric = re.sub('[^0-9a-zA-Zäöüß]+', ' ', article["title"])
-        candidates.append(alphanumeric)
-        candidates.extend(alphanumeric.split(" "))
-        candidates.extend(article["tags"])
-        candidates = [c for c in candidates if len(c) > 5]
-        station = self.get_station_match(candidates)
+        candidates = Candidates()
+        candidates.addString(article["title"])
+        candidates.addList(article["tags"])
+        station = self.get_station_match(candidates.get())
         
         if station is None:
-            print("no station for %s (%s)" % (article["title"], candidates))
+            print("no station for %s (%s)" % (article["title"], candidates.get()))
+            print("trying to find one from description")
+            candidates.empty()
+            candidates.addString(article["description"])
+            station = self.get_station_match(candidates.get())
+            print("Found %s" % station)
         return station
