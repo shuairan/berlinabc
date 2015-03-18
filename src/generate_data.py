@@ -26,7 +26,6 @@ def main():
     for entry in berlinabc_links:
         #pprint(entry)
         link = entry['link']
-        entry['location'] = ''
         
         print("\nCompleting %s" % link)
         rss_data = faz.feed_data(link)
