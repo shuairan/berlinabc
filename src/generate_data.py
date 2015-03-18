@@ -6,7 +6,7 @@ import re
 from fazcrawler import FazFeedCrawler#, FazHttpCrawler
 import wikicrawler
 
-def find_station(candidates):
+def get_station_match(candidates):
     print(candidates)
     for candidate in candidates:
         matches = list(filter(lambda s: candidate in s, stations))
@@ -15,7 +15,7 @@ def find_station(candidates):
             return matches[0]
     return None
 
-def find_coordinates(article):
+def find_station(article):
     candidates = []
     
     candidates.append(article["title"])
@@ -24,12 +24,14 @@ def find_coordinates(article):
     candidates.extend(alphanumeric.split(" "))
     candidates.extend(article["tags"])
     candidates = [c for c in candidates if len(c) > 5]
-    station = find_station(candidates)
+    station = get_station_match(candidates)
     
     if station is None:
         print("no station for %s (%s)" % (article["title"], candidates))
-        return False
-    
+    return station
+
+
+def get_coordinates(station):
     coords = wikicrawler.get_coordinates(station)
     print("Coords", coords) 
     return coords
@@ -49,7 +51,6 @@ def main():
     # TODO: get all blog links from http page
 
     faz = FazFeedCrawler('berlinabc')
-
 
     json_data=open('berlinabc_simple.json')
     berlinabc_links = json.load(json_data)
@@ -71,8 +72,11 @@ def main():
         entry['author'] = rss_data.author
         entry['published'] = rss_data.published
         #pprint(entry)
-        coords = find_coordinates(entry)
-        entry['coordinates'] = coords
+        station = find_station(entry)
+        if station:
+            coords = get_coordinates(station)
+            entry['coordinates'] = coords
+
         articles.append(entry)
         
     json_data.close()
