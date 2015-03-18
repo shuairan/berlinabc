@@ -1,132 +1,266 @@
 [
     {
+        "description": "<p>Die Stadtbahnstrecke verl\u00e4uft zwischen Ostbahnhof und Charlottenburg. An der Strecke liegt der denkmalgesch\u00fctzte Bahnhof Bellevue (S5, S7 und S75). Fr\u00fcher sind wir nach Bellevue gefahren, weil es dort die angeblich einzige Frittenbude der Stadt gab, die Tannenz\u00e4pfle verkauft hat, was &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/03/bellevue-31/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
         "published": "Tue, 03 Feb 2015 18:57:19 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/02/03/bellevue-31/",
-        "location": [
-            52.519947,
-            13.347082
-        ],
         "title": "Bellevue",
+        "coordinates": [
+            52.52,
+            13.3478
+        ],
+        "tags": [
+            "Allgemein",
+            "Hansaviertel",
+            "Mitte"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/02/03/bellevue-31/",
+        "location": "",
         "author": "holgerklein"
     },
     {
+        "description": "<p>Jeder Ort verbirgt eine Geschichte, eine interessante Facette, etwas zum Erz\u00e4hlen. Dachte ich. Doch dann landete ich in Bellevue.  <a href=\"http://blogs.faz.net/berlinabc/2015/02/05/atmosphaerisch-anaemisch-48/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
         "published": "Thu, 05 Feb 2015 12:06:00 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/02/05/atmosphaerisch-anaemisch-48/",
-        "location": [
-            52.51996,
-            13.348266
-        ],
         "title": "Atmosph\u00e4risch an\u00e4misch",
+        "coordinates": [
+            52.52,
+            13.3478
+        ],
+        "tags": [
+            "Allgemein",
+            "Bellevue",
+            "Langeweile"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/02/05/atmosphaerisch-anaemisch-48/",
+        "location": "",
         "author": "katrin-roenicke"
     },
     {
+        "description": "<p>Die Paradestra\u00dfe\u00a0ist mein pers\u00f6nlicher Geisterbahnhof. Sie liegt an der U6, die mich regelm\u00e4\u00dfig zu meinem Heimatbahnhof bringt, deshalb sehe ich den Bahnhof recht h\u00e4ufig im Vorbeifahren. Hier steigt fast nie jemand ein oder aus. Vor ein paar Jahren wurde saniert, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/08/paradestrasse-67/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
         "published": "Sun, 08 Feb 2015 16:06:46 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/02/08/paradestrasse-67/",
-        "location": [
-            52.47815401,
-            13.3867979
-        ],
         "title": "Paradestra\u00dfe",
-        "author": "holgerklein"
-    },
-    {
-        "published": "Wed, 11 Feb 2015 12:01:44 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/02/11/humboldthain-80/",
-        "location": [
-            52.544795,
-            13.379277
-        ],
-        "title": "Humboldthain",
-        "author": "katrin-roenicke"
-    },
-    {
-        "published": "Sat, 14 Feb 2015 12:09:22 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/02/14/innsbrucker-platz-106/",
-        "location": [
+        "coordinates": [
             52.4781,
-            13.342875
+            13.3861
         ],
+        "tags": [
+            "Allgemein",
+            "Fliegerviertel",
+            "Flughafen",
+            "Tempelhof",
+            "U6"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/02/08/paradestrasse-67/",
+        "location": "",
+        "author": "holgerklein"
+    },
+    {
+        "description": "<p>Tolle Wasserrutsche, Krokuswiese, widerst\u00e4ndige L\u00e4ufer, Multikulti-Imbiss und ein SEV, der funktioniert! Der Humboldthain ist derzeit ein kleiner Geheimtipp - aber nur noch bis 4. Mai!\ufeff  <a href=\"http://blogs.faz.net/berlinabc/2015/02/11/humboldthain-80/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+        "published": "Wed, 11 Feb 2015 12:01:44 +0000",
+        "title": "Humboldthain",
+        "coordinates": [
+            52.5451,
+            13.3796
+        ],
+        "tags": [
+            "Allgemein",
+            "Gesundbrunnen",
+            "Humboldthain",
+            "Nord-S\u00fcd-Tunnel",
+            "Schienenersatzverkehr"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/02/11/humboldthain-80/",
+        "location": "",
+        "author": "katrin-roenicke"
+    },
+    {
+        "description": "<p>Ich musste nach Sch\u00f6neberg zum Zoll. Wenn man aus meiner Richtung kommt, nimmt man die Ringbahn S41/42 (oder was sonst noch alles auf dieser Strecke f\u00e4hrt) zum Innsbrucker Platz. Dort kreuzt au\u00dferdem die U4. Beim Verlassen der U-Bahn kommt man &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/14/innsbrucker-platz-106/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+        "published": "Sat, 14 Feb 2015 12:09:22 +0000",
         "title": "Innsbrucker Platz",
+        "coordinates": [
+            52.4786,
+            13.3439
+        ],
+        "tags": [
+            "Allgemein",
+            "Ringbahn",
+            "Sch\u00f6neberg",
+            "U4"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/02/14/innsbrucker-platz-106/",
+        "location": "",
         "author": "holgerklein"
     },
     {
+        "description": "<p>Wenn man am Bahnhof Tempelhof barrierefrei von der U- in die S-Bahn umsteigen will, f\u00e4hrt man mit einem Aufzug hoch in die Mitte des Tempelhofer Dammes Dann eiert man die Mittelinsel entlang Und stellt sich &#8211; hoffentlich nicht im Regen, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
         "published": "Wed, 18 Feb 2015 09:06:13 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/",
-        "location": [
-            52.47071706,
-            13.38563919
-        ],
         "title": "Barrierearmut",
+        "coordinates": false,
+        "tags": [
+            "Allgemein"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/",
+        "location": "",
         "author": "holgerklein"
     },
     {
+        "description": "<p>Der Kleistpark ist eine belebte Sch\u00f6neberger Ecke, wo es gutes Essen gibt, das BVG-Fundb\u00fcro, das Wahlkreisb\u00fcro von Lars Oberg, einen Retro-Fernseh-Laden, Kinder die singen und einen netten kleinen Park zum Gammeln, der nach einem Vork\u00e4mpfer der Homosexuellen-Bewegung benannt ist. <a href=\"http://blogs.faz.net/berlinabc/2015/02/19/kleistpark-134/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
         "published": "Thu, 19 Feb 2015 08:53:43 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/02/19/kleistpark-134/",
-        "location": [
-            52.49085724,
-            13.36098055
-        ],
         "title": "Kleistpark",
+        "coordinates": [
+            52.4905,
+            13.3603
+        ],
+        "tags": [
+            "Allgemein",
+            "Kleistpark",
+            "Sch\u00f6neberg",
+            "U7"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/02/19/kleistpark-134/",
+        "location": "",
         "author": "katrin-roenicke"
     },
     {
+        "description": "<p>\u201eIch komme aus Wurstland\u201c pflegt eine, in Berlin lebende, Freundin gelegentlich zu sagen, wenn man sie fragt, wo sie aufgewachsen sei. Alle mir bekannten Menschen aus Th\u00fcringen sind sehr entspannte Zeitgenossinnen. Bei der Wahl ihrer Wurstwaren werden sie aber schnell &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/23/wurstland-ostkreuz-156/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
         "published": "Mon, 23 Feb 2015 20:20:22 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/02/23/wurstland-ostkreuz-156/",
-        "location": [
-            52.50417022,
-            13.46865683
-        ],
         "title": "Wurstland (Ostkreuz)",
+        "coordinates": [
+            52.5031,
+            13.4689
+        ],
+        "tags": [
+            "Allgemein",
+            "Friedrichshain",
+            "Gastro",
+            "Imbiss",
+            "Ostkreuz",
+            "Ringbahn",
+            "Stadtbahn"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/02/23/wurstland-ostkreuz-156/",
+        "location": "",
         "author": "holgerklein"
     },
     {
+        "description": "<p>Noch ist die \u201eJugendfreizeiteinrichtung Bezirksamt Mitte\u201c, die unweit des U-Bahnhofes Rehberge, in der Edinburger Stra\u00dfe zu finden ist und das die Leute dort deswegen das \u201eEDI\u201c nennen, eine staatliche Einrichtung. Doch wie viele andere Einrichtungen der Jugendarbeit wird es privatisiert. &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/27/rehberge-173/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
         "published": "Fri, 27 Feb 2015 18:13:04 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/02/27/rehberge-173/",
-        "location": [
-            52.55667,
-            13.341013
-        ],
         "title": "Rehberge: Wo Jugendarbeit privatisiert wird (wie \u00fcberall)",
+        "coordinates": [
+            52.5567,
+            13.3412
+        ],
+        "tags": [
+            "Allgemein",
+            "Jugendhilfe",
+            "Privatisierung",
+            "Wedding"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/02/27/rehberge-173/",
+        "location": "",
         "author": "katrin-roenicke"
     },
     {
+        "description": "<p>&#8220;In eener Woche is det allet wieder da. Wennde dann wiederkommst, kannste ooch die Jem\u00e4lde knipsen&#8221; (Au\u00dferdem habe ich das Nichts gesehen und werde demn\u00e4chst davon berichten)</p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
         "published": "Sun, 01 Mar 2015 11:25:19 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/03/01/griebnitzsee-graffiti-191/",
-        "location": [
-            52.393988,
-            13.128917
-        ],
         "title": "Griebnitzsee-Graffiti",
+        "coordinates": [
+            52.3944,
+            13.1272
+        ],
+        "tags": [
+            "Allgemein"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/03/01/griebnitzsee-graffiti-191/",
+        "location": "",
         "author": "holgerklein"
     },
     {
+        "description": "<p>Ich bin am Westkreuz ausgestiegen. Zum ersten Mal seit ich Ende der 1990er Jahre in diese Stadt gezogen bin. Das ist insofern bemerkenswert, als ich von Anfang an immer wieder \u00fcber das Westkreuz gefahren bin. &#8220;Pah!&#8221;, m\u00f6gen einige jetzt sagen, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/03/04/das-nichts-vulg-westkreuz-202/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
         "published": "Wed, 04 Mar 2015 07:20:09 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/03/04/das-nichts-vulg-westkreuz-202/",
-        "location": [
-            52.500737,
-            13.283966
-        ],
         "title": "Das Nichts (vulg. Westkreuz)",
+        "coordinates": [
+            52.5011,
+            13.2839
+        ],
+        "tags": [
+            "Allgemein"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/03/04/das-nichts-vulg-westkreuz-202/",
+        "location": "",
         "author": "holgerklein"
     },
     {
+        "description": "<p>Der Treptower Park ist an sonnigeren Tagen ein sehr beliebtes Ausflugsziel, denn man kann hier chillig an der Hafenpromenade entlangflanieren oder es sich im Biergarten Zenner gem\u00fctlich machen.  <a href=\"http://blogs.faz.net/berlinabc/2015/03/07/treptower-park-225/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
         "published": "Sat, 07 Mar 2015 10:33:51 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/03/07/treptower-park-225/",
-        "location": [
-            52.493559,
-            13.461441
-        ],
         "title": "Treptower Park",
+        "coordinates": [
+            52.4938,
+            13.4618
+        ],
+        "tags": [
+            "Allgemein",
+            "Ausflugsziele",
+            "Insel der Jugend",
+            "Ringbahn"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/03/07/treptower-park-225/",
+        "location": "",
         "author": "katrin-roenicke"
     },
     {
+        "description": "<p>Ich wohne an der U6. Die verkehrt in Nord-S\u00fcd-Richtung zwischen Alt-Tegel und Alt-Mariendorf. Seit ich hier wohne, bin ich schon mehrfach an die n\u00f6rdliche Endstation, nach Tegel, gefahren, denn dort war mein Hautarzt. Gute Haut\u00e4rzte sind derma\u00dfen schwierig zu finden, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/03/10/alt-mariendorf-endstation-250/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
         "published": "Tue, 10 Mar 2015 13:03:21 +0000",
-        "link": "http://blogs.faz.net/berlinabc/2015/03/10/alt-mariendorf-endstation-250/",
-        "location": [
-            52.439641,
-            13.387456
-        ],
         "title": "Alt-Mariendorf (Endstation)",
+        "coordinates": [
+            52.4391,
+            13.3877
+        ],
+        "tags": [
+            "Allgemein",
+            "Endstation",
+            "Mariendorf",
+            "Tempelhof",
+            "U6"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/03/10/alt-mariendorf-endstation-250/",
+        "location": "",
+        "author": "holgerklein"
+    },
+    {
+        "description": "<p>Das Faszinosum \u201eZwickauer Damm\u201c besteht f\u00fcr mich im Kontrast. Ein sozialer Kontrast. Ein architektonischer Kontrast \u2013 beides geht Hand in Hand. <a href=\"http://blogs.faz.net/berlinabc/2015/03/14/zwickauer-damm-258/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+        "published": "Sat, 14 Mar 2015 09:46:02 +0000",
+        "title": "Zwickauer Damm",
+        "coordinates": [
+            52.4233,
+            13.4839
+        ],
+        "tags": [
+            "Allgemein",
+            "Gropiusstadt",
+            "Rudow",
+            "sozialer Wohnungsbau"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/03/14/zwickauer-damm-258/",
+        "location": "",
+        "author": "katrin-roenicke"
+    },
+    {
+        "description": "<p>Ich hatte k\u00fcrzlich ja schon beschrieben, was eine Ketwurst ist, woher sie kommt und, dass ich eine pers\u00f6nliche, in meiner Kindheit liegende &#160;Beziehung zu ihr habe. Das Wurstland ist nicht die einzige, mir bekannte Ketwurstbude in Berlin, es gibt (oder &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/03/16/wurstnachtrag-ostkreuz-280/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+        "published": "Mon, 16 Mar 2015 19:45:36 +0000",
+        "title": "Wurstnachtrag (Ostkreuz)",
+        "coordinates": [
+            52.5031,
+            13.4689
+        ],
+        "tags": [
+            "Allgemein",
+            "Friedrichshain",
+            "Imbiss",
+            "Ostkreuz",
+            "Ringbahn",
+            "Wurst"
+        ],
+        "link": "http://blogs.faz.net/berlinabc/2015/03/16/wurstnachtrag-ostkreuz-280/",
+        "location": "",
         "author": "holgerklein"
     }
 ]
