@@ -7,7 +7,7 @@ WIKIPEDIA_API="https://de.wikipedia.org/w/api.php"
 
 def wiki_request(params):
     data = urllib.parse.urlencode(params)
-    print(WIKIPEDIA_API + '?' + data)
+    #print(WIKIPEDIA_API + '?' + data)
     data = data.encode('utf-8')
     request = urllib.request.Request(WIKIPEDIA_API)
     
@@ -24,7 +24,9 @@ def get_coordinates(title):
         'continue' : '',
         'titles': title
     }
-    return wiki_request(params)
+    json = wiki_request(params)
+    page = json['query']['pages']
+    return [(c[0]['lat'], c[0]['lon']) for c in [page[key]['coordinates'] for key in page]][0]
 
 def get_pages_from_category(category):
     """ http://de.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtype=page&cmlimit=500&cmtitle=CATEGORY """
