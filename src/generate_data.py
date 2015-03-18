@@ -1,42 +1,90 @@
 import json
+import itertools
 from pprint import pprint
+import re
 
-from fazcrawler import FazCrawler
+from fazcrawler import FazFeedCrawler#, FazHttpCrawler
 import wikicrawler
 
-json_data=open('berlinabc_simple.json')
-data = json.load(json_data)
+def find_station(candidates):
+    print(candidates)
+    for candidate in candidates:
+        matches = list(filter(lambda s: candidate in s, stations))
+        if matches:
+            print("Candidate %s has match %s" % (candidate, matches))
+            return matches[0]
+    return None
 
-
-# get list of stations from Wikipedia:
-import itertools
-wikicat = [ 'Kategorie:Bahnhof_der_S-Bahn_Berlin', 'Kategorie:U-Bahnhof_in_Berlin' ]
-stations = list(itertools.chain(* [wikicrawler.get_page_list(s) for s in wikicat]))
-
-articles = []
-faz = FazCrawler('berlinabc')
-
-print("Starting Crawler")
-for entry in data:
-    #pprint(entry)
-    link = entry['link']
-    coords = entry['location']
+def find_coordinates(article):
+    candidates = []
     
-    print("Completing %s" % link)
-    rss_data = faz.feed_data(link)
-    entry['title'] = rss_data.title
-    entry['author'] = rss_data.author
-    entry['published'] = rss_data.published
+    candidates.append(article["title"])
+    alphanumeric = re.sub('[^0-9a-zA-Zäöüß]+', ' ', article["title"])
+    candidates.append(alphanumeric)
+    candidates.extend(alphanumeric.split(" "))
+    candidates.extend(article["tags"])
+    candidates = [c for c in candidates if len(c) > 5]
+    station = find_station(candidates)
     
-    articles.append(entry)
+    if station is None:
+        print("no station for %s (%s)" % (article["title"], candidates))
+        return False
     
-json_data.close()
-print("Crawling completed")
+    coords = wikicrawler.get_coordinates(station)
+    print("Coords", coords) 
+    return coords
+    #print("Find coords for %s (%s)" % (article["title"], article["link"]))
+    #print(list(matches))
+    #for station in stations:    
 
-#print(json.dumps(articles))
+def main():
+    # get list of stations from Wikipedia:
+    print("Crawlink Wikipedia for stations")
+    wikicat = [ 'Kategorie:Bahnhof_der_S-Bahn_Berlin', 'Kategorie:U-Bahnhof_in_Berlin' ]
+    stations = list(itertools.chain(* [wikicrawler.get_page_list(s) for s in wikicat]))
 
-article_data = '../articles.json'
+    # get all blog article links from FAZ:
+    print("Crawling blog.faz.net for article links")
+    #faz_http = FazHttpCrawler('berlinabc')
+    # TODO: get all blog links from http page
 
-with open(article_data, 'w') as outfile:
-    json.dump(articles, outfile, indent=4)
-    print("Data file written to %s" % article_data)
+    faz = FazFeedCrawler('berlinabc')
+
+
+    json_data=open('berlinabc_simple.json')
+    berlinabc_links = json.load(json_data)
+
+    articles = []
+    print("Starting Crawler")
+    for entry in berlinabc_links:
+        #pprint(entry)
+        link = entry['link']
+        entry['location'] = ''
+        
+        print("\nCompleting %s" % link)
+        rss_data = faz.feed_data(link)
+        #pprint(rss_data)
+        
+        entry['title'] = rss_data.title
+        entry['description'] = rss_data.description
+        entry['tags'] = [tag['term'] for tag in rss_data.tags]
+        entry['author'] = rss_data.author
+        entry['published'] = rss_data.published
+        #pprint(entry)
+        coords = find_coordinates(entry)
+        entry['coordinates'] = coords
+        articles.append(entry)
+        
+    json_data.close()
+    print("Crawling completed")
+
+    #print(json.dumps(articles))
+
+    article_data = '../articles.json'
+
+    with open(article_data, 'w') as outfile:
+        json.dump(articles, outfile, indent=4)
+        print("Data file written to %s" % article_data)
+        
+if __name__ == "__main__":
+    main()

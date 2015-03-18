@@ -13,7 +13,7 @@ if there are more than 10 entries a day we have a problem.
 
 """
 
-class FazCrawler():
+class FazFeedCrawler():
     def __init__(self, blogname):
         self.blogname = blogname
         self.rss_data = []
