@@ -56,7 +56,7 @@ def main():
     article_data = '../articles.json'
 
     with open(article_data, 'w') as outfile:
-        json.dump(articles, outfile, indent=4)
+        json.dump(articles, outfile, indent=4, sort_keys=True)
         print("Data file written to %s" % article_data)
         
 if __name__ == "__main__":
