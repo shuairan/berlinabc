@@ -41,6 +41,8 @@ def main():
         #pprint(entry)
         station = wiki.find_station(entry)
         if station:
+            entry['station'] = station
+            entry['wikipedia_link'] = "https://de.wikipedia.org/wiki/" + station.replace(' ', '_')
             coords = wiki.get_coordinates(station)
             entry['coordinates'] = coords
 
