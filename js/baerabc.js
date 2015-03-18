@@ -101,13 +101,16 @@ function updateLayers(e) {
 function initMarkers(json) {
     for (var article in json) {
         var data = json[article];
+        //console.log(data);
         var author = data['author'];
-        var marker = L.marker(data['location']);
-        var popup = getPopupHTML(data)
-        marker.bindPopup(popup);
+        if (data['coordinates']) {
+            var marker = L.marker(data['coordinates']);
+            var popup = getPopupHTML(data)
+            marker.bindPopup(popup);
         
-        marker.setIcon(icons[author]);
-        groups[author].addLayer(marker);
+            marker.setIcon(icons[author]);
+            groups[author].addLayer(marker);
+        }
     }
 }
 
