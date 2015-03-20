@@ -5,6 +5,7 @@ import itertools
 import re
 
 WIKIPEDIA_API="https://de.wikipedia.org/w/api.php"
+BLACKLIST = ['Bahnhof', 'Berlin', 'Liste', 'der', 'Bahnhöfe', 'Raum', 'Endstation']
 
 class WikiCrawler():
     def get_pages_from_category(self, category):
@@ -48,10 +49,9 @@ class Candidates():
     def __init__(self):
         self.candidates = []
         self.seen = set()
-        self.blacklist = ['Bahnhof', 'Berlin', 'Liste', 'der', 'Bahnhöfe', 'Raum']
         
     def add(self, candidate):
-        if not candidate in self.seen and len(candidate) >= 4 and not candidate in self.blacklist:
+        if not candidate in self.seen and len(candidate) >= 4 and not candidate in BLACKLIST:
             self.seen.add(candidate)
             self.candidates.append(candidate)
     
