@@ -280,5 +280,23 @@
         ],
         "title": "Wurstnachtrag (Ostkreuz)",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Ostkreuz"
+    },
+    {
+        "author": "katrin-roenicke",
+        "coordinates": [
+            52.5717,
+            13.565
+        ],
+        "description": "<p>In Ahrensfelde ist es auf den ersten Blick zwar trostlos und grau. Auf den zweiten Blick aber entdeckt man Kleinode russischer Kultur, wie das Theater \"Anton Tschechow\" und die Sauna, in der man sich Birkenzweige auf den R\u00fccken schlagen kann. <a href=\"http://blogs.faz.net/berlinabc/2015/03/20/ahrensfelde-endstation-288/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+        "link": "http://blogs.faz.net/berlinabc/2015/03/20/ahrensfelde-endstation-288/",
+        "published": "Fri, 20 Mar 2015 16:18:55 +0000",
+        "station": "Bahnhof Ahrensfelde",
+        "tags": [
+            "Allgemein",
+            "Marzahn",
+            "russische Kultur"
+        ],
+        "title": "Ahrensfelde (Endstation)",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Ahrensfelde"
     }
 ]
