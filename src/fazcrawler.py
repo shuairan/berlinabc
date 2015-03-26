@@ -1,5 +1,7 @@
 import feedparser
 import re
+from datetime import datetime
+import locale
 
 """
 Crawl the FAZ feed for a blog.faz.net
@@ -12,6 +14,13 @@ http://blogs.faz.net/BLOGNAME/YEAR/MONTH/DAY/feed
 if there are more than 10 entries a day we have a problem.
 
 """
+
+locale.setlocale(locale.LC_ALL, 'de_DE')
+
+def fazDateHandler(aDateString):
+    return datetime.strptime(aDateString, "%a, %d %b %Y %H:%M:%S %z")
+    
+feedparser.registerDateHandler(fazDateHandler)
 
 class FazFeedCrawler():
     def __init__(self, blogname):
