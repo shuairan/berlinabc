@@ -32,6 +32,7 @@ def main():
         
         entry = {}
         entry['title'] = rss_data.title
+        entry['link'] = link
         entry['description'] = rss_data.description
         entry['tags'] = [tag['term'] for tag in rss_data.tags]
         entry['author'] = rss_data.author
