@@ -1,5 +1,7 @@
 import json
 from pprint import pprint
+from datetime import datetime
+import time
 
 from fazcrawler import FazFeedCrawler#, FazHttpCrawler
 from wikicrawler import WikiStationCrawler
@@ -29,14 +31,14 @@ def main():
         print("\nCompleting %s" % link)
         rss_data = faz.feed_data(link)
         #pprint(rss_data)
-        
+
         entry = {}
         entry['title'] = rss_data.title
         entry['link'] = link
         entry['description'] = rss_data.description
         entry['tags'] = [tag['term'] for tag in rss_data.tags]
         entry['author'] = rss_data.author
-        entry['published'] = rss_data.published
+        entry['published'] = time.strftime('%d. %b, %Y', rss_data.published_parsed)
         
         #pprint(entry)
         station = wiki.find_station(entry)

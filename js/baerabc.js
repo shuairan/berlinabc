@@ -30,10 +30,6 @@ $.each(authors, function( index, author ) {
 });
 groups['both'] = L.layerGroup();
 
-function dateStr(date) {
-    return date.substr(0,16);
-}
-
 /*
  * Create pop html code
  */
@@ -45,9 +41,7 @@ function getPopupHTML(station) {
         var data = station["articles"][article];
         s += '<div class="author-' + data['author'] + '">';
         s += '<h2><a href="' + data['link'] + '">' + data['title'] + '</a></h2>';
-        s += '<span class="popup-date">' + dateStr(data['published']) + '</span>';
-        s += ' von ';
-        s += '<span class="popup-author">' + authors_data[data['author']] + '</span>';
+        s += '<span class="popup-authorinfo"><em>' + data['published'] + '</em> von <strong>' + authors_data[data['author']] + '</strong></span>';
         //s += '<div class="popup-summary">' + data['description'] + '</div>';
         s += '</div>';
     }
