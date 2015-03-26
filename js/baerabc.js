@@ -37,13 +37,14 @@ function dateStr(date) {
 /*
  * Create pop html code
  */
-function getPopupHTML(articles) {
+function getPopupHTML(station) {
     s = '<div class="popup">';
+    s += '<h1><a href= ' + station['wikipedia_link'] + '>' + station['name'] + '</h1> </a>';
     
-    for (var article in articles) {
-        var data = articles[article];
+    for (var article in station["articles"]) {
+        var data = station["articles"][article];
         s += '<div class="author-' + data['author'] + '">';
-        s += '<h1><a href="' + data['link'] + '">' + data['title'] + '</a></h1>';
+        s += '<h2><a href="' + data['link'] + '">' + data['title'] + '</a></h2>';
         s += '<span class="popup-date">' + dateStr(data['published']) + '</span>';
         s += ' von ';
         s += '<span class="popup-author">' + authors_data[data['author']] + '</span>';
@@ -127,7 +128,7 @@ function initMarkers(json) {
         
         if (stationData['coordinates']) {
             var marker = L.marker(stationData['coordinates']);
-            var popup = getPopupHTML(stationData['articles'])
+            var popup = getPopupHTML(stationData)
             marker.bindPopup(popup);
         
             marker.setIcon(icons[author]);

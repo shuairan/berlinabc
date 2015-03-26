@@ -59,19 +59,13 @@ span.popup-author {
     font-weight: bold;
 }
 
-table.times {
-    margin-top: 0.75em;
+.popup h1 a {
+    color: #000;
+    text-decoration: none;
 }
 
-table.times th {
-    font-weight: normal;
-    font-style: italic;
-    padding-left: 0;
-    padding-right: 0.75em;
-}
-
-table.times tr.today * {
-    font-weight: bold;
+.popup h1 a:hover {
+    text-decoration: underline;
 }
 
 :disabled + span {
@@ -88,6 +82,11 @@ table.times tr.today * {
 }
 
 .leaflet-popup-content h1 {
+    font-size: 150%;
+    margin-bottom: 0.25em;
+}
+
+.leaflet-popup-content h2 {
     font-size: 120%;
     margin-bottom: 0.25em;
 }
