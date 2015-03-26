@@ -21,16 +21,16 @@ def main():
     json_data=open('berlinabc_simple.json')
     berlinabc_links = json.load(json_data)
 
-    articles = []
+    markers = {}
     print("Starting Crawler")
-    for entry in berlinabc_links:
-        #pprint(entry)
-        link = entry['link']
+    for article in berlinabc_links:
+        link = article['link']
         
         print("\nCompleting %s" % link)
         rss_data = faz.feed_data(link)
         #pprint(rss_data)
         
+        entry = {}
         entry['title'] = rss_data.title
         entry['description'] = rss_data.description
         entry['tags'] = [tag['term'] for tag in rss_data.tags]
@@ -39,23 +39,26 @@ def main():
         
         #pprint(entry)
         station = wiki.find_station(entry)
-        if station:
-            entry['station'] = station
-            entry['wikipedia_link'] = "https://de.wikipedia.org/wiki/" + station.replace(' ', '_')
+        
+        if station and not station in markers:
+            markers[station] = {}
+            markers[station]['name'] = station
+            markers[station]['wikipedia_link'] = "https://de.wikipedia.org/wiki/" + station.replace(' ', '_')
             coords = wiki.get_coordinates(station)
-            entry['coordinates'] = coords
-
-        articles.append(entry)
+            markers[station]['coordinates'] = coords
+            markers[station]['articles'] = []
+        
+        markers[station]['articles'].append(entry)
         
     json_data.close()
     print("Crawling completed")
 
     #print(json.dumps(articles))
 
-    article_data = '../articles.json'
+    article_data = '../markers.json'
 
     with open(article_data, 'w') as outfile:
-        json.dump(articles, outfile, indent=4, sort_keys=True)
+        json.dump(markers, outfile, indent=4, sort_keys=True)
         print("Data file written to %s" % article_data)
         
 if __name__ == "__main__":

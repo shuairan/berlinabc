@@ -1,4 +1,4 @@
-var TILES_URL = "http://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png"
+var TILES_URL = "http://a.tile.thunderforest.com/transport/{z}/{x}/{y}.png";
 
 var INITIAL_LOCATION = [52.518611, 13.408333];
 var INITIAL_ZOOM = 12;
@@ -7,11 +7,11 @@ var ATTRIBUTION = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreet
                   'CC-BY-SA</a>. Tiles &copy; <a href="http://cartodb.com/attributions">' +
                   'CartoDB</a>';
 
-var authors = ['katrin-roenicke', 'holgerklein']
+var authors = ['katrin-roenicke', 'holgerklein'];
 var authors_data = {
     'katrin-roenicke' : 'Katrin Rönicke',
-    'holgerklein' : 'Holger Klein'
-     };
+    'holgerklein' : 'Holger Klein',
+};
 
 var map;
 var groups = {};
@@ -19,6 +19,8 @@ var icons = {};
 L.AwesomeMarkers.Icon.prototype.options.prefix = 'fa';
 icons['holgerklein'] = L.AwesomeMarkers.icon({markerColor: 'darkpurple', icon: 'train'});
 icons['katrin-roenicke'] = L.AwesomeMarkers.icon({markerColor: 'orange', icon: 'train'});
+icons['both'] = L.AwesomeMarkers.icon({markerColor: 'darkgreen', icon: 'train'});
+
 
 /*
  * prepare data
@@ -26,7 +28,7 @@ icons['katrin-roenicke'] = L.AwesomeMarkers.icon({markerColor: 'orange', icon: '
 $.each(authors, function( index, author ) {
     groups[author] = L.layerGroup();
 });
-
+groups['both'] = L.layerGroup();
 
 function dateStr(date) {
     return date.substr(0,16);
@@ -35,12 +37,20 @@ function dateStr(date) {
 /*
  * Create pop html code
  */
-function getPopupHTML(data) {
+function getPopupHTML(articles) {
     s = '<div class="popup">';
-    s += '<h1><a href="' + data['link'] + '">' + data['title'] + '</a></h1>';
-    s += '<span class="popup-date">' + dateStr(data['published']) + '</span>';
-    s += ' von ';
-    s += '<span class="popup-author">' + authors_data[data['author']] + '</span>';
+    
+    for (var article in articles) {
+        var data = articles[article];
+        s += '<div class="author-' + data['author'] + '">';
+        s += '<h1><a href="' + data['link'] + '">' + data['title'] + '</a></h1>';
+        s += '<span class="popup-date">' + dateStr(data['published']) + '</span>';
+        s += ' von ';
+        s += '<span class="popup-author">' + authors_data[data['author']] + '</span>';
+        //s += '<div class="popup-summary">' + data['description'] + '</div>';
+        s += '</div>';
+    }
+    
     s += '</div>';
     return s;
 }
@@ -94,18 +104,30 @@ function updateLayers(e) {
     }
 }
 
+function onlyUnique(value, index, self) {
+    return self.indexOf(value) === index;
+}
 
 /*
  * Create map markers from JSON article data.
  */
 function initMarkers(json) {
-    for (var article in json) {
-        var data = json[article];
+    for (var station in json) {
+        var stationData = json[station];
         //console.log(data);
-        var author = data['author'];
-        if (data['coordinates']) {
-            var marker = L.marker(data['coordinates']);
-            var popup = getPopupHTML(data)
+        
+        var authors = [];
+        for (var article in stationData["articles"]) {
+            var data = stationData["articles"][article];
+            authors.push(data['author']);
+        }
+        
+        authors = authors.filter(onlyUnique)
+        var author = authors.length == 1 ? authors[0] : 'both';
+        
+        if (stationData['coordinates']) {
+            var marker = L.marker(stationData['coordinates']);
+            var popup = getPopupHTML(stationData['articles'])
             marker.bindPopup(popup);
         
             marker.setIcon(icons[author]);
@@ -129,7 +151,7 @@ function initLegend() {
 $(document).ready(function() {
     initMap();
     initLegend();
-    $.getJSON("articles.json", function(json) {
+    $.getJSON("markers.json", function(json) {
         initMarkers(json);
         initControls();
         $.each(groups, function( index, group ) {
