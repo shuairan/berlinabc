@@ -298,5 +298,25 @@
         ],
         "title": "Ahrensfelde (Endstation)",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Ahrensfelde"
+    },
+    {
+        "author": "holgerklein",
+        "coordinates": [
+            52.4708,
+            13.3854
+        ],
+        "description": "<p>Am\u00a0Bahnhof Tempelhof\u00a0kreuzt die Ringbahn die U6. Es ist einer dieser typischen, r\u00e4udigen Orte mit lichtschlauchbewehrten Zigarettentelefoninternethandyl\u00e4den, von denen man haupts\u00e4chlich fliehen will. Flieht man in Richtung Innenstadt und biegt an der Trattoria Toscana (die \u00fcbrigens ein erstaunlich guter Stadtteil-Italiener ist) &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/03/23/andi-tempelhof-314/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+        "link": "http://blogs.faz.net/berlinabc/2015/03/23/andi-tempelhof-314/",
+        "published": "Mon, 23 Mar 2015 19:02:37 +0000",
+        "station": "Bahnhof Berlin-Tempelhof",
+        "tags": [
+            "Allgemein",
+            "Menschen",
+            "Ringbahn",
+            "Schnorrer",
+            "Tempelhof"
+        ],
+        "title": "Andi (Tempelhof)",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Tempelhof"
     }
 ]
