@@ -55,6 +55,29 @@
         "name": "Bahnhof Berlin Bellevue",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Bellevue"
     },
+    "Bahnhof Berlin Frankfurter Allee": {
+        "articles": [
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Neben dem \"Ring-Center\" gibt es in der Frankfurter Allee entlang, die auch als \"Feinstauballee\" bekannt ist, ein RTL-2-Gesch\u00e4ft neben dem anderen. Das sind Gesch\u00e4fte, deren Kundschaft so aussieht, wie die Leute, die an RTL-2-Reality-Shows teilnehmen. Ein Besuch. <a href=\"http://blogs.faz.net/berlinabc/2015/04/06/frankfurter-allee-rant-362/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/04/06/frankfurter-allee-rant-362/",
+                "published": "06. Apr, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Feinstaub",
+                    "Friedrichshain",
+                    "Lichtenberg"
+                ],
+                "title": "Frankfurter-Allee-Rant"
+            }
+        ],
+        "coordinates": [
+            52.515,
+            13.4747
+        ],
+        "name": "Bahnhof Berlin Frankfurter Allee",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Frankfurter_Allee"
+    },
     "Bahnhof Berlin Humboldthain": {
         "articles": [
             {
@@ -101,6 +124,34 @@
         ],
         "name": "Bahnhof Berlin Innsbrucker Platz",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Innsbrucker_Platz"
+    },
+    "Bahnhof Berlin Jungfernheide": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Wenn man mit dem Flugzeug nach Berlin kommt, auf dem Flughafen Tegel landet und mit dem \u00f6ffentlichen Verkehr weiterfahren will, steigt man in einen Bus. Der ist gerne mal&#160;schmuddelig, denn die hiesigen Verkehrsbetriebe scheinen&#160;sich wenig um den Komfort ihrer Passagiere &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/03/30/das-jungfernheide-rolltreppendebakel-331/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/03/30/das-jungfernheide-rolltreppendebakel-331/",
+                "published": "30. M\u00e4r, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Bus",
+                    "Charlottenburg",
+                    "Flughafen-Tegel",
+                    "Infrastruktur",
+                    "Jungfernheide",
+                    "Ringbahn",
+                    "S-Bahn",
+                    "Taxi"
+                ],
+                "title": "Das Jungfernheide Rolltreppendebakel"
+            }
+        ],
+        "coordinates": [
+            52.5305,
+            13.3006
+        ],
+        "name": "Bahnhof Berlin Jungfernheide",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Jungfernheide"
     },
     "Bahnhof Berlin Ostkreuz": {
         "articles": [
@@ -186,6 +237,31 @@
         "name": "Bahnhof Berlin Westkreuz",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Westkreuz"
     },
+    "Bahnhof Berlin-Lichterfelde Ost": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Neulich war Sturm. Da ist die S7 ausgefallen und ich wurde auf die S1 umgeleitet. Die benutze ich sonst nicht so gerne, denn sie h\u00e4lt &#8211; im Vergleich mit der S7 &#8211; an jeder Milchkanne. Eine dieser Milchkannen ist Lichterfelde-West. &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/04/02/lichterfelder-burgertum-346/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/04/02/lichterfelder-burgertum-346/",
+                "published": "02. Apr, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Burger",
+                    "Gastronomie",
+                    "Lichterfelde",
+                    "Lichterfelde-West",
+                    "S1"
+                ],
+                "title": "Lichterfelder Burgertum"
+            }
+        ],
+        "coordinates": [
+            52.43,
+            13.3289
+        ],
+        "name": "Bahnhof Berlin-Lichterfelde Ost",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Lichterfelde_Ost"
+    },
     "Bahnhof Berlin-Tempelhof": {
         "articles": [
             {
@@ -197,20 +273,6 @@
                     "Allgemein"
                 ],
                 "title": "Barrierearmut"
-            },
-            {
-                "author": "holgerklein",
-                "description": "<p>Am\u00a0Bahnhof Tempelhof\u00a0kreuzt die Ringbahn die U6. Es ist einer dieser typischen, r\u00e4udigen Orte mit lichtschlauchbewehrten Zigarettentelefoninternethandyl\u00e4den, von denen man haupts\u00e4chlich fliehen will. Flieht man in Richtung Innenstadt und biegt an der Trattoria Toscana (die \u00fcbrigens ein erstaunlich guter Stadtteil-Italiener ist) &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/03/23/andi-tempelhof-314/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/03/23/andi-tempelhof-314/",
-                "published": "23. M\u00e4r, 2015",
-                "tags": [
-                    "Allgemein",
-                    "Menschen",
-                    "Ringbahn",
-                    "Schnorrer",
-                    "Tempelhof"
-                ],
-                "title": "Andi (Tempelhof)"
             }
         ],
         "coordinates": [
@@ -334,6 +396,31 @@
         "name": "U-Bahnhof Rehberge",
         "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Rehberge"
     },
+    "U-Bahnhof Voltastra\u00dfe": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Eigentlich will ich ein wenig vom Radio erz\u00e4hlen, denn an der Voltastra\u00dfe (U8) gibt es davon gleich mehrere, die aus Gr\u00fcnden interessant sind, wie sie unterschiedlicher kaum sein k\u00f6nnten. Als ich aber die Brunnenstra\u00dfe herunterlief, um ein wenig die Gegend &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/04/11/voltastrasse-gebrochenes-herz-390/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/04/11/voltastrasse-gebrochenes-herz-390/",
+                "published": "10. Apr, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Liebe",
+                    "Mauer",
+                    "Reisen",
+                    "U8",
+                    "Wedding"
+                ],
+                "title": "Voltastra\u00dfe: Gebrochenes Herz"
+            }
+        ],
+        "coordinates": [
+            52.5422,
+            13.393
+        ],
+        "name": "U-Bahnhof Voltastra\u00dfe",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Voltastra\u00dfe"
+    },
     "U-Bahnhof Zwickauer Damm": {
         "articles": [
             {
@@ -356,5 +443,31 @@
         ],
         "name": "U-Bahnhof Zwickauer Damm",
         "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Zwickauer_Damm"
+    },
+    "none": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Wer sich mit dem \u00f6ffentlichen Personennahverkehr durch Berlin bewegen will, kauft Fahrscheine f\u00fcr unterschiedliche Zonen. Zone A ist die direkte Innenstadt, innerhalb des S-Bahn-Ringes. Einzelfahrscheine hierf\u00fcr kann man nicht kaufen, denn als Innenstadtbewohner w\u00fcrde ein solches Ticket ausreichen, um 90% &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/03/hallo-welt-haha-17/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/02/03/hallo-welt-haha-17/",
+                "published": "03. Feb, 2015",
+                "tags": [
+                    "Allgemein"
+                ],
+                "title": "Hallo Welt (haha!)"
+            },
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Ein Mensch und so viel Gestank! Viele Menschen und so viel Hilflosigkeit drum herum. Und Ignoranz. Alle sind angewidert. Aber was soll man schon machen. Stinkende Menschen sind Teil der berliner S-Bahn-Realit\u00e4t geworden.  <a href=\"http://blogs.faz.net/berlinabc/2015/03/27/stilles-stinken-320/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/03/27/stilles-stinken-320/",
+                "published": "27. M\u00e4r, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Armut",
+                    "S-Bahn Berlin"
+                ],
+                "title": "Stilles Stinken"
+            }
+        ]
     }
 }
