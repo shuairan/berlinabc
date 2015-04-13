@@ -8,6 +8,29 @@ from wikicrawler import WikiStationCrawler
 
 wikicat = [ 'Kategorie:Bahnhof_der_S-Bahn_Berlin', 'Kategorie:U-Bahnhof_in_Berlin' ]   
 
+def generate_base_data_entry(title, link, description, tags, author, published):
+    entry = {}
+    entry['title'] = title
+    entry['link'] = link
+    entry['description'] = description
+    entry['tags'] = tags
+    entry['author'] = author
+    entry['published'] = published
+    return entry
+    
+def generate_article_data(station, coords):
+    data = {}
+    data['articles'] = []
+    
+    if station is "none":
+        return data
+        
+    data['name'] = station
+    data['wikipedia_link'] = "https://de.wikipedia.org/wiki/" + station.replace(' ', '_')
+    data['coordinates'] = coords
+    
+    return data
+
 def main():
     # get list of stations from Wikipedia:
     print("Crawlink Wikipedia for stations")
@@ -32,26 +55,24 @@ def main():
         rss_data = faz.feed_data(link)
         #pprint(rss_data)
 
-        entry = {}
-        entry['title'] = rss_data.title
-        entry['link'] = link
-        entry['description'] = rss_data.description
-        entry['tags'] = [tag['term'] for tag in rss_data.tags]
-        entry['author'] = rss_data.author
-        entry['published'] = time.strftime('%d. %b, %Y', rss_data.published_parsed)
-        
+        entry = generate_base_data_entry(
+            title = rss_data.title,
+            link = link,
+            description = rss_data.description,
+            tags = [tag['term'] for tag in rss_data.tags],
+            author = rss_data.author,
+            published = time.strftime('%d. %b, %Y', rss_data.published_parsed)
+        )
+
         #pprint(entry)
         station = wiki.find_station(entry)
         
         if station and not station in markers:
-            markers[station] = {}
-            markers[station]['name'] = station
-            markers[station]['wikipedia_link'] = "https://de.wikipedia.org/wiki/" + station.replace(' ', '_')
             coords = wiki.get_coordinates(station)
-            markers[station]['coordinates'] = coords
-            markers[station]['articles'] = []
-        
-        markers[station]['articles'].append(entry)
+            markers[station] = generate_article_data(station, coords)
+            
+        if station in markers:
+            markers[station]['articles'].append(entry)
         
     json_data.close()
     print("Crawling completed")

@@ -5,7 +5,7 @@ import itertools
 import re
 
 WIKIPEDIA_API="https://de.wikipedia.org/w/api.php"
-BLACKLIST = ['Bahnhof', 'Berlin', 'Liste', 'der', 'Bahnhöfe', 'Raum', 'Endstation']
+BLACKLIST = ['Bahnhof', 'Bahnhöfe', 'Bahn', 'Berlin', 'Liste', 'der', 'Raum', 'Endstation', 'Alle']
 
 class WikiCrawler():
     def get_pages_from_category(self, category):
@@ -23,6 +23,8 @@ class WikiCrawler():
         return [page["title"] for page in json["query"]["categorymembers"]]
 
     def get_coordinates(self, title):
+        if title is "none":
+            return ""
         """ https://de.wikipedia.org/w/api.php?action=query&prop=coordinates&titles=TITEL """
         params = {
             'action': 'query',
@@ -33,6 +35,7 @@ class WikiCrawler():
         }
         json = self.wiki_request(params)
         page = json['query']['pages']
+        #print(page)
         return [(c[0]['lat'], c[0]['lon']) for c in [page[key]['coordinates'] for key in page]][0]
 
     def wiki_request(self, params):
@@ -102,5 +105,7 @@ class WikiStationCrawler(WikiCrawler):
             candidates.empty()
             candidates.addString(article["description"])
             station = self.get_station_match(candidates.get())
+            if station is None:
+                station = "none"
             print("Found %s" % station)
         return station
