@@ -396,6 +396,29 @@
         "name": "U-Bahnhof Rehberge",
         "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Rehberge"
     },
+    "U-Bahnhof Ullsteinstra\u00dfe": {
+        "articles": [
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Die Ufa-Fabrik ist ein ziemlich vielseitiger und total uriger Ort. Ein komplettes Gutmenschen-Zentrum. Und seien wir ehrlich: So sehr Gutmenschen nerven k\u00f6nnen, wenn sie immer nur klug daherreden und anderen erkl\u00e4ren, wie sie zu leben h\u00e4tten \u2013 die Sorte Gutmensch, die anpackt und Dinge auf die Beine stellt, Kurse anbietet, ber\u00e4t, vernetzt, B\u00fchnen aufstellt, auf denen sich andere inszenieren k\u00f6nnen und Menschen zum Tanzen und zum Lachen bringt ist doch einfach unentbehrlich. <a href=\"http://blogs.faz.net/berlinabc/2015/04/16/die-ufa-fabrik-ullsteinstrasse-405/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/04/16/die-ufa-fabrik-ullsteinstrasse-405/",
+                "published": "16. Apr, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Alternative Kultur",
+                    "Tempelhof-Sch\u00f6neberg",
+                    "Ufa-Fabrik"
+                ],
+                "title": "Die Ufa-Fabrik (Ullsteinstra\u00dfe)"
+            }
+        ],
+        "coordinates": [
+            52.4538,
+            13.3843
+        ],
+        "name": "U-Bahnhof Ullsteinstra\u00dfe",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Ullsteinstra\u00dfe"
+    },
     "U-Bahnhof Voltastra\u00dfe": {
         "articles": [
             {
