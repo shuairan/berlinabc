@@ -302,6 +302,56 @@
         "name": "Bahnhof Potsdam Griebnitzsee",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Potsdam_Griebnitzsee"
     },
+    "Bahnhof Zeuthen": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Eigentlich wollte ich eine andere Geschichte aus Zeuthen erz\u00e4hlen, werde ich auch noch, aber die hier muss gerade mal raus. Ich musste n\u00e4mlich vor die Tore Berlins, zum Deutschen Elektronen Synchrotron (DESY). Der ist in Zeuten. Dorthin f\u00e4hrt man mit &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/04/22/zeuthener-zugangsbeschrankung-444/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/04/22/zeuthener-zugangsbeschrankung-444/",
+                "published": "22. Apr, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Bahnhof",
+                    "Ringbahn",
+                    "S46",
+                    "Zeuthen",
+                    "Zumutungen"
+                ],
+                "title": "Zeuthener Zugangsbeschrankung"
+            }
+        ],
+        "coordinates": [
+            52.3487,
+            13.6274
+        ],
+        "name": "Bahnhof Zeuthen",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Zeuthen"
+    },
+    "Berlin Anhalter Bahnhof": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Der Anhalter Bahnhof wird momentan nicht bespielt. Angeblich, weil der Nord-S\u00fcd-SBahn-Tunnel saniert wird. Normalerweise halten&#160;hier die S1, S2 und S25 die im Stadtgebiet streckenweise unterirdisch fahren. Der Bahnhof war nicht immer nur ein schn\u00f6der S-Bahnhof, sondern verband Berlin mit dem &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/04/19/im-bunker-am-anhalter-bahnhof-433/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/04/19/im-bunker-am-anhalter-bahnhof-433/",
+                "published": "19. Apr, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Anhalter Bahnhof",
+                    "Kreuzberg",
+                    "Museum",
+                    "S-Bahn",
+                    "S1"
+                ],
+                "title": "Im Bunker am Anhalter Bahnhof"
+            }
+        ],
+        "coordinates": [
+            52.5031,
+            13.3819
+        ],
+        "name": "Berlin Anhalter Bahnhof",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Berlin_Anhalter_Bahnhof"
+    },
     "U-Bahnhof Alt-Mariendorf": {
         "articles": [
             {
