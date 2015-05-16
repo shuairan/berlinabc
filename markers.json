@@ -232,21 +232,6 @@
                     "Techno-Szene"
                 ],
                 "title": "Warschauer Stra\u00dfe: Erlebnispark RAW (1)"
-            },
-            {
-                "author": "katrin-roenicke",
-                "description": "<p>Es ist so: Berlinerinnen und Berliner haben eine gewisse Starrk\u00f6pfigkeit. Diese zeigte sich im vergangenen Jahr, als das Stadtvolk dar\u00fcber abstimmte, was mit seinem ehemaligen Flughafen in Tempelhof zu geschehen habe. Das Ergebnis: bitte erst mal gar nichts. So sind &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/04/30/warschauer-strasse-erlebnispark-raw-2-479/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/04/30/warschauer-strasse-erlebnispark-raw-2-479/",
-                "published": "30. Apr, 2015",
-                "tags": [
-                    "Allgemein",
-                    "Clubszene",
-                    "Friedrichshain",
-                    "RAW",
-                    "Stadtbahn",
-                    "Stadtkultur"
-                ],
-                "title": "Warschauer Stra\u00dfe: Erlebnispark RAW (2)"
             }
         ],
         "coordinates": [
@@ -275,6 +260,28 @@
         ],
         "name": "Bahnhof Berlin Westkreuz",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Westkreuz"
+    },
+    "Bahnhof Berlin-Blankenburg": {
+        "articles": [
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Einen Kleingarten in Blankenburg? - Nein danke! Aber gerne einen vegetarischen D\u00f6ner und zweimal Chicken Nuggets mit Pommes. Und wir wollen mehr artgerechte Fahrradhaltung, liebe DB! <a href=\"http://blogs.faz.net/berlinabc/2015/05/15/blankenburg-574/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/05/15/blankenburg-574/",
+                "published": "15. Mai, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Blankenburg",
+                    "Pankow"
+                ],
+                "title": "Blankenburg"
+            }
+        ],
+        "coordinates": [
+            52.5911,
+            13.4431
+        ],
+        "name": "Bahnhof Berlin-Blankenburg",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Blankenburg"
     },
     "Bahnhof Berlin-Lichterfelde Ost": {
         "articles": [
@@ -419,6 +426,31 @@
         "name": "U-Bahnhof Alt-Mariendorf",
         "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Alt-Mariendorf"
     },
+    "U-Bahnhof Eisenacher Stra\u00dfe": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>U7, Eisenacher Stra\u00dfe. Friseure (von denen es hier bemerkenswert viele gibt) hei\u00dfen hier sowas wie \u201eKopfkultur\u201c, B\u00e4ckereien \u201eFrau B\u00e4ckerin\u201c und Gastst\u00e4tten haben entweder keck-wortspielige oder neo-bodenst\u00e4ndige Namen. Alles ist aus Dinkel und selbst das alteingesessene Fotostudio (das mit den seltsamen &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/05/04/neues-altes-spielzeug-aus-der-eisenacher-strasse-522/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/05/04/neues-altes-spielzeug-aus-der-eisenacher-strasse-522/",
+                "published": "04. Mai, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Einzelhandel",
+                    "Eisenacher Stra\u00dfe",
+                    "Sch\u00f6neberg",
+                    "Spielzeug",
+                    "U7"
+                ],
+                "title": "Neues altes Spielzeug"
+            }
+        ],
+        "coordinates": [
+            52.4896,
+            13.3503
+        ],
+        "name": "U-Bahnhof Eisenacher Stra\u00dfe",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Eisenacher_Stra\u00dfe"
+    },
     "U-Bahnhof Kleistpark": {
         "articles": [
             {
@@ -465,6 +497,31 @@
         ],
         "name": "U-Bahnhof Paradestra\u00dfe",
         "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Paradestra\u00dfe"
+    },
+    "U-Bahnhof Parchimer Allee": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Parchim ist ein Ort in Mecklenburg-Vorpommern, den ich nur daher kenne, dass er immer der nord\u00f6stlichste Ort auf meinem Regenradar ist, auf das ich blicke, wenn ich die knapp 30 Kilometer zwischen meinem regelm\u00e4\u00dfigen B\u00fcrojob mit dem Fahrrad statt mit &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/05/12/parchimer-allee-563/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/05/12/parchimer-allee-563/",
+                "published": "12. Mai, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Britz",
+                    "Denkmal",
+                    "Geb\u00e4ude",
+                    "Neuk\u00f6lln",
+                    "U7"
+                ],
+                "title": "Parchimer Allee"
+            }
+        ],
+        "coordinates": [
+            52.4448,
+            13.4494
+        ],
+        "name": "U-Bahnhof Parchimer Allee",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Parchimer_Allee"
     },
     "U-Bahnhof Rehberge": {
         "articles": [
@@ -583,6 +640,16 @@
                     "S-Bahn Berlin"
                 ],
                 "title": "Stilles Stinken"
+            },
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Bahnstreik und Arbeit - es ist nicht ganz leicht. Zwischen Herdenmentalit\u00e4t, Tr\u00e4gheit und einer gro\u00dfen Menge Fahrr\u00e4der kommt so mancher zu sp\u00e4t.  <a href=\"http://blogs.faz.net/berlinabc/2015/05/08/arbeit-in-zeiten-des-bahnstreiks-462/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/05/08/arbeit-in-zeiten-des-bahnstreiks-462/",
+                "published": "08. Mai, 2015",
+                "tags": [
+                    "Allgemein"
+                ],
+                "title": "Arbeit in Zeiten des Bahnstreiks"
             }
         ]
     }
