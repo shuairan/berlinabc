@@ -5,7 +5,7 @@ import itertools
 import re
 
 WIKIPEDIA_API="https://de.wikipedia.org/w/api.php"
-BLACKLIST = ['Bahnhof', 'Bahnhöfe', 'Bahn', 'Berlin', 'Liste', 'der', 'Raum', 'Endstation', 'Alle']
+BLACKLIST = ['Bahnhof', 'Bahnhöfe', 'Bahn', 'Berlin', 'Liste', 'der', 'Raum', 'Endstation', 'Alle', 'einer']
 
 class WikiCrawler():
     def get_pages_from_category(self, category):
