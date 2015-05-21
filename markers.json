@@ -1,26 +1,4 @@
 {
-    "Bahnhof Ahrensfelde": {
-        "articles": [
-            {
-                "author": "katrin-roenicke",
-                "description": "<p>In Ahrensfelde ist es auf den ersten Blick zwar trostlos und grau. Auf den zweiten Blick aber entdeckt man Kleinode russischer Kultur, wie das Theater \"Anton Tschechow\" und die Sauna, in der man sich Birkenzweige auf den R\u00fccken schlagen kann. <a href=\"http://blogs.faz.net/berlinabc/2015/03/20/ahrensfelde-endstation-288/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/03/20/ahrensfelde-endstation-288/",
-                "published": "20. M\u00e4r, 2015",
-                "tags": [
-                    "Allgemein",
-                    "Marzahn",
-                    "russische Kultur"
-                ],
-                "title": "Ahrensfelde (Endstation)"
-            }
-        ],
-        "coordinates": [
-            52.5717,
-            13.565
-        ],
-        "name": "Bahnhof Ahrensfelde",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Ahrensfelde"
-    },
     "Bahnhof Berlin Bellevue": {
         "articles": [
             {
@@ -54,29 +32,6 @@
         ],
         "name": "Bahnhof Berlin Bellevue",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Bellevue"
-    },
-    "Bahnhof Berlin Frankfurter Allee": {
-        "articles": [
-            {
-                "author": "katrin-roenicke",
-                "description": "<p>Neben dem \"Ring-Center\" gibt es in der Frankfurter Allee entlang, die auch als \"Feinstauballee\" bekannt ist, ein RTL-2-Gesch\u00e4ft neben dem anderen. Das sind Gesch\u00e4fte, deren Kundschaft so aussieht, wie die Leute, die an RTL-2-Reality-Shows teilnehmen. Ein Besuch. <a href=\"http://blogs.faz.net/berlinabc/2015/04/06/frankfurter-allee-rant-362/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/04/06/frankfurter-allee-rant-362/",
-                "published": "06. Apr, 2015",
-                "tags": [
-                    "Allgemein",
-                    "Feinstaub",
-                    "Friedrichshain",
-                    "Lichtenberg"
-                ],
-                "title": "Frankfurter-Allee-Rant"
-            }
-        ],
-        "coordinates": [
-            52.515,
-            13.4747
-        ],
-        "name": "Bahnhof Berlin Frankfurter Allee",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Frankfurter_Allee"
     },
     "Bahnhof Berlin Humboldthain": {
         "articles": [
@@ -125,52 +80,47 @@
         "name": "Bahnhof Berlin Innsbrucker Platz",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Innsbrucker_Platz"
     },
-    "Bahnhof Berlin Jungfernheide": {
+    "Bahnhof Berlin Oranienburger Stra\u00dfe": {
         "articles": [
             {
-                "author": "holgerklein",
-                "description": "<p>Wenn man mit dem Flugzeug nach Berlin kommt, auf dem Flughafen Tegel landet und mit dem \u00f6ffentlichen Verkehr weiterfahren will, steigt man in einen Bus. Der ist gerne mal&#160;schmuddelig, denn die hiesigen Verkehrsbetriebe scheinen&#160;sich wenig um den Komfort ihrer Passagiere &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/03/30/das-jungfernheide-rolltreppendebakel-331/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/03/30/das-jungfernheide-rolltreppendebakel-331/",
-                "published": "30. M\u00e4r, 2015",
-                "tags": [
-                    "Allgemein",
-                    "Bus",
-                    "Charlottenburg",
-                    "Flughafen-Tegel",
-                    "Infrastruktur",
-                    "Jungfernheide",
-                    "Ringbahn",
-                    "S-Bahn",
-                    "Taxi"
-                ],
-                "title": "Das Jungfernheide Rolltreppendebakel"
-            }
-        ],
-        "coordinates": [
-            52.5305,
-            13.3006
-        ],
-        "name": "Bahnhof Berlin Jungfernheide",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Jungfernheide"
-    },
-    "Bahnhof Berlin Ostkreuz": {
-        "articles": [
-            {
-                "author": "holgerklein",
-                "description": "<p>\u201eIch komme aus Wurstland\u201c pflegt eine, in Berlin lebende, Freundin gelegentlich zu sagen, wenn man sie fragt, wo sie aufgewachsen sei. Alle mir bekannten Menschen aus Th\u00fcringen sind sehr entspannte Zeitgenossinnen. Bei der Wahl ihrer Wurstwaren werden sie aber schnell &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/23/wurstland-ostkreuz-156/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/02/23/wurstland-ostkreuz-156/",
-                "published": "23. Feb, 2015",
+                "author": "katrin-roenicke",
+                "description": "<p>Wie ich einmal meine Freiheit genie\u00dfen wollte und am Ende auf der vielleicht bekanntesten Berliner Partymeile, dem RAW-Gel\u00e4nde an der Warschauer Stra\u00dfe, Bekanntschaft mit der Organisierten Taschendieb-Kriminalit\u00e4t machte. <a href=\"http://blogs.faz.net/berlinabc/2015/04/27/warschauer-strasse-erlebnispark-raw-1-464/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/04/27/warschauer-strasse-erlebnispark-raw-1-464/",
+                "published": "27. Apr, 2015",
                 "tags": [
                     "Allgemein",
                     "Friedrichshain",
-                    "Gastro",
-                    "Imbiss",
-                    "Ostkreuz",
-                    "Ringbahn",
-                    "Stadtbahn"
+                    "Kriminalit\u00e4t",
+                    "RAW",
+                    "Techno-Szene"
                 ],
-                "title": "Wurstland (Ostkreuz)"
+                "title": "Warschauer Stra\u00dfe: Erlebnispark RAW (1)"
             },
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Es ist so: Berlinerinnen und Berliner haben eine gewisse Starrk\u00f6pfigkeit. Diese zeigte sich im vergangenen Jahr, als das Stadtvolk dar\u00fcber abstimmte, was mit seinem ehemaligen Flughafen in Tempelhof zu geschehen habe. Das Ergebnis: bitte erst mal gar nichts. So sind &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/04/30/warschauer-strasse-erlebnispark-raw-2-479/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/04/30/warschauer-strasse-erlebnispark-raw-2-479/",
+                "published": "30. Apr, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Clubszene",
+                    "Friedrichshain",
+                    "RAW",
+                    "Stadtbahn",
+                    "Stadtkultur"
+                ],
+                "title": "Warschauer Stra\u00dfe: Erlebnispark RAW (2)"
+            }
+        ],
+        "coordinates": [
+            52.525,
+            13.3929
+        ],
+        "name": "Bahnhof Berlin Oranienburger Stra\u00dfe",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Oranienburger_Stra\u00dfe"
+    },
+    "Bahnhof Berlin Ostkreuz": {
+        "articles": [
             {
                 "author": "holgerklein",
                 "description": "<p>Ich hatte k\u00fcrzlich ja schon beschrieben, was eine Ketwurst ist, woher sie kommt und, dass ich eine pers\u00f6nliche, in meiner Kindheit liegende &#160;Beziehung zu ihr habe. Das Wurstland ist nicht die einzige, mir bekannte Ketwurstbude in Berlin, es gibt (oder &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/03/16/wurstnachtrag-ostkreuz-280/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
@@ -185,6 +135,17 @@
                     "Wurst"
                 ],
                 "title": "Wurstnachtrag (Ostkreuz)"
+            },
+            {
+                "author": "holgerklein",
+                "description": "<p>Statt uns etwas \u00fcber Kunst beizubringen, haben sie uns fr\u00fcher im Kunstunterricht gezwungen, bl\u00f6des Zeugs aus Pappmach\u00e9 zusammenzumatschen. Am Ostkreuz f\u00e4llt der Kram heutzutage einfach so von der Wand &#8211; und wird bei Regen lustigerweise \u00e4hnlich glibschig und unn\u00fctz, wie &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/05/18/kunstunterricht-am-ostkreuz-606/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/05/18/kunstunterricht-am-ostkreuz-606/",
+                "published": "18. Mai, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Ostkreuz"
+                ],
+                "title": "Kunstunterricht am Ostkreuz"
             }
         ],
         "coordinates": [
@@ -216,30 +177,6 @@
         ],
         "name": "Bahnhof Berlin Treptower Park",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Treptower_Park"
-    },
-    "Bahnhof Berlin Warschauer Stra\u00dfe": {
-        "articles": [
-            {
-                "author": "katrin-roenicke",
-                "description": "<p>Wie ich einmal meine Freiheit genie\u00dfen wollte und am Ende auf der vielleicht bekanntesten Berliner Partymeile, dem RAW-Gel\u00e4nde an der Warschauer Stra\u00dfe, Bekanntschaft mit der Organisierten Taschendieb-Kriminalit\u00e4t machte. <a href=\"http://blogs.faz.net/berlinabc/2015/04/27/warschauer-strasse-erlebnispark-raw-1-464/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/04/27/warschauer-strasse-erlebnispark-raw-1-464/",
-                "published": "27. Apr, 2015",
-                "tags": [
-                    "Allgemein",
-                    "Friedrichshain",
-                    "Kriminalit\u00e4t",
-                    "RAW",
-                    "Techno-Szene"
-                ],
-                "title": "Warschauer Stra\u00dfe: Erlebnispark RAW (1)"
-            }
-        ],
-        "coordinates": [
-            52.5062,
-            13.4503
-        ],
-        "name": "Bahnhof Berlin Warschauer Stra\u00dfe",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Warschauer_Stra\u00dfe"
     },
     "Bahnhof Berlin Westkreuz": {
         "articles": [
@@ -283,7 +220,7 @@
         "name": "Bahnhof Berlin-Blankenburg",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Blankenburg"
     },
-    "Bahnhof Berlin-Lichterfelde Ost": {
+    "Bahnhof Berlin-Lichterfelde S\u00fcd": {
         "articles": [
             {
                 "author": "holgerklein",
@@ -302,23 +239,101 @@
             }
         ],
         "coordinates": [
-            52.43,
-            13.3289
+            52.41,
+            13.3086
         ],
-        "name": "Bahnhof Berlin-Lichterfelde Ost",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Lichterfelde_Ost"
+        "name": "Bahnhof Berlin-Lichterfelde S\u00fcd",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Lichterfelde_S\u00fcd"
+    },
+    "Bahnhof Berlin-Marzahn": {
+        "articles": [
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>In Ahrensfelde ist es auf den ersten Blick zwar trostlos und grau. Auf den zweiten Blick aber entdeckt man Kleinode russischer Kultur, wie das Theater \"Anton Tschechow\" und die Sauna, in der man sich Birkenzweige auf den R\u00fccken schlagen kann. <a href=\"http://blogs.faz.net/berlinabc/2015/03/20/ahrensfelde-endstation-288/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/03/20/ahrensfelde-endstation-288/",
+                "published": "20. M\u00e4r, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Marzahn",
+                    "russische Kultur"
+                ],
+                "title": "Ahrensfelde (Endstation)"
+            }
+        ],
+        "coordinates": [
+            52.5436,
+            13.5411
+        ],
+        "name": "Bahnhof Berlin-Marzahn",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Marzahn"
+    },
+    "Bahnhof Berlin-Rummelsburg (S-Bahn)": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Wenn man mit dem Flugzeug nach Berlin kommt, auf dem Flughafen Tegel landet und mit dem \u00f6ffentlichen Verkehr weiterfahren will, steigt man in einen Bus. Der ist gerne mal&#160;schmuddelig, denn die hiesigen Verkehrsbetriebe scheinen&#160;sich wenig um den Komfort ihrer Passagiere &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/03/30/das-jungfernheide-rolltreppendebakel-331/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/03/30/das-jungfernheide-rolltreppendebakel-331/",
+                "published": "30. M\u00e4r, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Bus",
+                    "Charlottenburg",
+                    "Flughafen-Tegel",
+                    "Infrastruktur",
+                    "Jungfernheide",
+                    "Ringbahn",
+                    "S-Bahn",
+                    "Taxi"
+                ],
+                "title": "Das Jungfernheide Rolltreppendebakel"
+            }
+        ],
+        "coordinates": [
+            52.5012,
+            13.4785
+        ],
+        "name": "Bahnhof Berlin-Rummelsburg (S-Bahn)",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Rummelsburg_(S-Bahn)"
+    },
+    "Bahnhof Berlin-Sch\u00f6nefeld Flughafen": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Die Paradestra\u00dfe\u00a0ist mein pers\u00f6nlicher Geisterbahnhof. Sie liegt an der U6, die mich regelm\u00e4\u00dfig zu meinem Heimatbahnhof bringt, deshalb sehe ich den Bahnhof recht h\u00e4ufig im Vorbeifahren. Hier steigt fast nie jemand ein oder aus. Vor ein paar Jahren wurde saniert, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/08/paradestrasse-67/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/02/08/paradestrasse-67/",
+                "published": "08. Feb, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Fliegerviertel",
+                    "Flughafen",
+                    "Tempelhof",
+                    "U6"
+                ],
+                "title": "Paradestra\u00dfe"
+            }
+        ],
+        "coordinates": [
+            52.3914,
+            13.5128
+        ],
+        "name": "Bahnhof Berlin-Sch\u00f6nefeld Flughafen",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Sch\u00f6nefeld_Flughafen"
     },
     "Bahnhof Berlin-Tempelhof": {
         "articles": [
             {
                 "author": "holgerklein",
-                "description": "<p>Wenn man am Bahnhof Tempelhof barrierefrei von der U- in die S-Bahn umsteigen will, f\u00e4hrt man mit einem Aufzug hoch in die Mitte des Tempelhofer Dammes Dann eiert man die Mittelinsel entlang Und stellt sich &#8211; hoffentlich nicht im Regen, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/",
-                "published": "18. Feb, 2015",
+                "description": "<p>Ich wohne an der U6. Die verkehrt in Nord-S\u00fcd-Richtung zwischen Alt-Tegel und Alt-Mariendorf. Seit ich hier wohne, bin ich schon mehrfach an die n\u00f6rdliche Endstation, nach Tegel, gefahren, denn dort war mein Hautarzt. Gute Haut\u00e4rzte sind derma\u00dfen schwierig zu finden, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/03/10/alt-mariendorf-endstation-250/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/03/10/alt-mariendorf-endstation-250/",
+                "published": "10. M\u00e4r, 2015",
                 "tags": [
-                    "Allgemein"
+                    "Allgemein",
+                    "Endstation",
+                    "Mariendorf",
+                    "Tempelhof",
+                    "U6"
                 ],
-                "title": "Barrierearmut"
+                "title": "Alt-Mariendorf (Endstation)"
             }
         ],
         "coordinates": [
@@ -327,6 +342,31 @@
         ],
         "name": "Bahnhof Berlin-Tempelhof",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Tempelhof"
+    },
+    "Bahnhof Berlin-Wedding": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Eigentlich will ich ein wenig vom Radio erz\u00e4hlen, denn an der Voltastra\u00dfe (U8) gibt es davon gleich mehrere, die aus Gr\u00fcnden interessant sind, wie sie unterschiedlicher kaum sein k\u00f6nnten. Als ich aber die Brunnenstra\u00dfe herunterlief, um ein wenig die Gegend &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/04/11/voltastrasse-gebrochenes-herz-390/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/04/11/voltastrasse-gebrochenes-herz-390/",
+                "published": "10. Apr, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Liebe",
+                    "Mauer",
+                    "Reisen",
+                    "U8",
+                    "Wedding"
+                ],
+                "title": "Voltastra\u00dfe: Gebrochenes Herz"
+            }
+        ],
+        "coordinates": [
+            52.5425,
+            13.3661
+        ],
+        "name": "Bahnhof Berlin-Wedding",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Wedding"
     },
     "Bahnhof Potsdam Griebnitzsee": {
         "articles": [
@@ -377,54 +417,51 @@
         "name": "Bahnhof Zeuthen",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Zeuthen"
     },
-    "Berlin Anhalter Bahnhof": {
+    "Berlin Lehrter Stadtbahnhof": {
         "articles": [
             {
                 "author": "holgerklein",
-                "description": "<p>Der Anhalter Bahnhof wird momentan nicht bespielt. Angeblich, weil der Nord-S\u00fcd-SBahn-Tunnel saniert wird. Normalerweise halten&#160;hier die S1, S2 und S25 die im Stadtgebiet streckenweise unterirdisch fahren. Der Bahnhof war nicht immer nur ein schn\u00f6der S-Bahnhof, sondern verband Berlin mit dem &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/04/19/im-bunker-am-anhalter-bahnhof-433/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/04/19/im-bunker-am-anhalter-bahnhof-433/",
-                "published": "19. Apr, 2015",
+                "description": "<p>\u201eIch komme aus Wurstland\u201c pflegt eine, in Berlin lebende, Freundin gelegentlich zu sagen, wenn man sie fragt, wo sie aufgewachsen sei. Alle mir bekannten Menschen aus Th\u00fcringen sind sehr entspannte Zeitgenossinnen. Bei der Wahl ihrer Wurstwaren werden sie aber schnell &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/23/wurstland-ostkreuz-156/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/02/23/wurstland-ostkreuz-156/",
+                "published": "23. Feb, 2015",
                 "tags": [
                     "Allgemein",
-                    "Anhalter Bahnhof",
-                    "Kreuzberg",
-                    "Museum",
-                    "S-Bahn",
-                    "S1"
+                    "Friedrichshain",
+                    "Gastro",
+                    "Imbiss",
+                    "Ostkreuz",
+                    "Ringbahn",
+                    "Stadtbahn"
                 ],
-                "title": "Im Bunker am Anhalter Bahnhof"
+                "title": "Wurstland (Ostkreuz)"
             }
         ],
         "coordinates": [
-            52.5031,
-            13.3819
+            52.5253,
+            13.3694
         ],
-        "name": "Berlin Anhalter Bahnhof",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/Berlin_Anhalter_Bahnhof"
+        "name": "Berlin Lehrter Stadtbahnhof",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Berlin_Lehrter_Stadtbahnhof"
     },
-    "U-Bahnhof Alt-Mariendorf": {
+    "U-Bahnhof Alt-Tempelhof": {
         "articles": [
             {
                 "author": "holgerklein",
-                "description": "<p>Ich wohne an der U6. Die verkehrt in Nord-S\u00fcd-Richtung zwischen Alt-Tegel und Alt-Mariendorf. Seit ich hier wohne, bin ich schon mehrfach an die n\u00f6rdliche Endstation, nach Tegel, gefahren, denn dort war mein Hautarzt. Gute Haut\u00e4rzte sind derma\u00dfen schwierig zu finden, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/03/10/alt-mariendorf-endstation-250/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/03/10/alt-mariendorf-endstation-250/",
-                "published": "10. M\u00e4r, 2015",
+                "description": "<p>Wenn man am Bahnhof Tempelhof barrierefrei von der U- in die S-Bahn umsteigen will, f\u00e4hrt man mit einem Aufzug hoch in die Mitte des Tempelhofer Dammes Dann eiert man die Mittelinsel entlang Und stellt sich &#8211; hoffentlich nicht im Regen, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/",
+                "published": "18. Feb, 2015",
                 "tags": [
-                    "Allgemein",
-                    "Endstation",
-                    "Mariendorf",
-                    "Tempelhof",
-                    "U6"
+                    "Allgemein"
                 ],
-                "title": "Alt-Mariendorf (Endstation)"
+                "title": "Barrierearmut"
             }
         ],
         "coordinates": [
-            52.4391,
-            13.3877
+            52.466,
+            13.3859
         ],
-        "name": "U-Bahnhof Alt-Mariendorf",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Alt-Mariendorf"
+        "name": "U-Bahnhof Alt-Tempelhof",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Alt-Tempelhof"
     },
     "U-Bahnhof Eisenacher Stra\u00dfe": {
         "articles": [
@@ -451,55 +488,46 @@
         "name": "U-Bahnhof Eisenacher Stra\u00dfe",
         "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Eisenacher_Stra\u00dfe"
     },
-    "U-Bahnhof Kleistpark": {
-        "articles": [
-            {
-                "author": "katrin-roenicke",
-                "description": "<p>Der Kleistpark ist eine belebte Sch\u00f6neberger Ecke, wo es gutes Essen gibt, das BVG-Fundb\u00fcro, das Wahlkreisb\u00fcro von Lars Oberg, einen Retro-Fernseh-Laden, Kinder die singen und einen netten kleinen Park zum Gammeln, der nach einem Vork\u00e4mpfer der Homosexuellen-Bewegung benannt ist. <a href=\"http://blogs.faz.net/berlinabc/2015/02/19/kleistpark-134/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/02/19/kleistpark-134/",
-                "published": "19. Feb, 2015",
-                "tags": [
-                    "Allgemein",
-                    "Kleistpark",
-                    "Sch\u00f6neberg",
-                    "U7"
-                ],
-                "title": "Kleistpark"
-            }
-        ],
-        "coordinates": [
-            52.4905,
-            13.3603
-        ],
-        "name": "U-Bahnhof Kleistpark",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Kleistpark"
-    },
-    "U-Bahnhof Paradestra\u00dfe": {
+    "U-Bahnhof Museumsinsel": {
         "articles": [
             {
                 "author": "holgerklein",
-                "description": "<p>Die Paradestra\u00dfe\u00a0ist mein pers\u00f6nlicher Geisterbahnhof. Sie liegt an der U6, die mich regelm\u00e4\u00dfig zu meinem Heimatbahnhof bringt, deshalb sehe ich den Bahnhof recht h\u00e4ufig im Vorbeifahren. Hier steigt fast nie jemand ein oder aus. Vor ein paar Jahren wurde saniert, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/08/paradestrasse-67/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/02/08/paradestrasse-67/",
-                "published": "08. Feb, 2015",
+                "description": "<p>Der Anhalter Bahnhof wird momentan nicht bespielt. Angeblich, weil der Nord-S\u00fcd-SBahn-Tunnel saniert wird. Normalerweise halten&#160;hier die S1, S2 und S25 die im Stadtgebiet streckenweise unterirdisch fahren. Der Bahnhof war nicht immer nur ein schn\u00f6der S-Bahnhof, sondern verband Berlin mit dem &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/04/19/im-bunker-am-anhalter-bahnhof-433/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/04/19/im-bunker-am-anhalter-bahnhof-433/",
+                "published": "19. Apr, 2015",
                 "tags": [
                     "Allgemein",
-                    "Fliegerviertel",
-                    "Flughafen",
-                    "Tempelhof",
-                    "U6"
+                    "Anhalter Bahnhof",
+                    "Kreuzberg",
+                    "Museum",
+                    "S-Bahn",
+                    "S1"
                 ],
-                "title": "Paradestra\u00dfe"
+                "title": "Im Bunker am Anhalter Bahnhof"
             }
         ],
         "coordinates": [
-            52.4781,
-            13.3861
+            52.5174,
+            13.3982
         ],
-        "name": "U-Bahnhof Paradestra\u00dfe",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Paradestra\u00dfe"
+        "name": "U-Bahnhof Museumsinsel",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Museumsinsel"
     },
     "U-Bahnhof Parchimer Allee": {
         "articles": [
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Neben dem \"Ring-Center\" gibt es in der Frankfurter Allee entlang, die auch als \"Feinstauballee\" bekannt ist, ein RTL-2-Gesch\u00e4ft neben dem anderen. Das sind Gesch\u00e4fte, deren Kundschaft so aussieht, wie die Leute, die an RTL-2-Reality-Shows teilnehmen. Ein Besuch. <a href=\"http://blogs.faz.net/berlinabc/2015/04/06/frankfurter-allee-rant-362/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/04/06/frankfurter-allee-rant-362/",
+                "published": "06. Apr, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Feinstaub",
+                    "Friedrichshain",
+                    "Lichtenberg"
+                ],
+                "title": "Frankfurter-Allee-Rant"
+            },
             {
                 "author": "holgerklein",
                 "description": "<p>Parchim ist ein Ort in Mecklenburg-Vorpommern, den ich nur daher kenne, dass er immer der nord\u00f6stlichste Ort auf meinem Regenradar ist, auf das ich blicke, wenn ich die knapp 30 Kilometer zwischen meinem regelm\u00e4\u00dfigen B\u00fcrojob mit dem Fahrrad statt mit &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/05/12/parchimer-allee-563/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
@@ -522,6 +550,52 @@
         ],
         "name": "U-Bahnhof Parchimer Allee",
         "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Parchimer_Allee"
+    },
+    "U-Bahnhof Platz der Luftbr\u00fccke": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Unter dem Platz der Luftbr\u00fccke f\u00e4hrt die U6. Es ist der Bahnhof, der dem ehemaligen Flughafen Tempelhof am n\u00e4chsten liegt. Das ist ein v\u00f6llig \u00fcberfl\u00fcssiger Innenstadtflughafen, dessen einzig erkennbarer Sinn darin lag, dass ich f\u00fcr sechs Euro inkl. Trinkgeld mit &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/05/20/platz-der-wurstbruecke-613/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/05/20/platz-der-wurstbruecke-613/",
+                "published": "20. Mai, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Platz der Luftbr\u00fccke",
+                    "Tempelhof",
+                    "U6"
+                ],
+                "title": "Platz der Wurstbr\u00fccke"
+            }
+        ],
+        "coordinates": [
+            52.4856,
+            13.3858
+        ],
+        "name": "U-Bahnhof Platz der Luftbr\u00fccke",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Platz_der_Luftbr\u00fccke"
+    },
+    "U-Bahnhof Rathaus Sch\u00f6neberg": {
+        "articles": [
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Der Kleistpark ist eine belebte Sch\u00f6neberger Ecke, wo es gutes Essen gibt, das BVG-Fundb\u00fcro, das Wahlkreisb\u00fcro von Lars Oberg, einen Retro-Fernseh-Laden, Kinder die singen und einen netten kleinen Park zum Gammeln, der nach einem Vork\u00e4mpfer der Homosexuellen-Bewegung benannt ist. <a href=\"http://blogs.faz.net/berlinabc/2015/02/19/kleistpark-134/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/02/19/kleistpark-134/",
+                "published": "19. Feb, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Kleistpark",
+                    "Sch\u00f6neberg",
+                    "U7"
+                ],
+                "title": "Kleistpark"
+            }
+        ],
+        "coordinates": [
+            52.4831,
+            13.3419
+        ],
+        "name": "U-Bahnhof Rathaus Sch\u00f6neberg",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Rathaus_Sch\u00f6neberg"
     },
     "U-Bahnhof Rehberge": {
         "articles": [
@@ -546,6 +620,29 @@
         "name": "U-Bahnhof Rehberge",
         "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Rehberge"
     },
+    "U-Bahnhof Rudow": {
+        "articles": [
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Das Faszinosum \u201eZwickauer Damm\u201c besteht f\u00fcr mich im Kontrast. Ein sozialer Kontrast. Ein architektonischer Kontrast \u2013 beides geht Hand in Hand. <a href=\"http://blogs.faz.net/berlinabc/2015/03/14/zwickauer-damm-258/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/03/14/zwickauer-damm-258/",
+                "published": "14. M\u00e4r, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Gropiusstadt",
+                    "Rudow",
+                    "sozialer Wohnungsbau"
+                ],
+                "title": "Zwickauer Damm"
+            }
+        ],
+        "coordinates": [
+            52.4161,
+            13.4953
+        ],
+        "name": "U-Bahnhof Rudow",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Rudow"
+    },
     "U-Bahnhof Ullsteinstra\u00dfe": {
         "articles": [
             {
@@ -568,54 +665,6 @@
         ],
         "name": "U-Bahnhof Ullsteinstra\u00dfe",
         "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Ullsteinstra\u00dfe"
-    },
-    "U-Bahnhof Voltastra\u00dfe": {
-        "articles": [
-            {
-                "author": "holgerklein",
-                "description": "<p>Eigentlich will ich ein wenig vom Radio erz\u00e4hlen, denn an der Voltastra\u00dfe (U8) gibt es davon gleich mehrere, die aus Gr\u00fcnden interessant sind, wie sie unterschiedlicher kaum sein k\u00f6nnten. Als ich aber die Brunnenstra\u00dfe herunterlief, um ein wenig die Gegend &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/04/11/voltastrasse-gebrochenes-herz-390/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/04/11/voltastrasse-gebrochenes-herz-390/",
-                "published": "10. Apr, 2015",
-                "tags": [
-                    "Allgemein",
-                    "Liebe",
-                    "Mauer",
-                    "Reisen",
-                    "U8",
-                    "Wedding"
-                ],
-                "title": "Voltastra\u00dfe: Gebrochenes Herz"
-            }
-        ],
-        "coordinates": [
-            52.5422,
-            13.393
-        ],
-        "name": "U-Bahnhof Voltastra\u00dfe",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Voltastra\u00dfe"
-    },
-    "U-Bahnhof Zwickauer Damm": {
-        "articles": [
-            {
-                "author": "katrin-roenicke",
-                "description": "<p>Das Faszinosum \u201eZwickauer Damm\u201c besteht f\u00fcr mich im Kontrast. Ein sozialer Kontrast. Ein architektonischer Kontrast \u2013 beides geht Hand in Hand. <a href=\"http://blogs.faz.net/berlinabc/2015/03/14/zwickauer-damm-258/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/03/14/zwickauer-damm-258/",
-                "published": "14. M\u00e4r, 2015",
-                "tags": [
-                    "Allgemein",
-                    "Gropiusstadt",
-                    "Rudow",
-                    "sozialer Wohnungsbau"
-                ],
-                "title": "Zwickauer Damm"
-            }
-        ],
-        "coordinates": [
-            52.4233,
-            13.4839
-        ],
-        "name": "U-Bahnhof Zwickauer Damm",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Zwickauer_Damm"
     },
     "none": {
         "articles": [

@@ -1,83 +1,35 @@
 [
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/02/03/hallo-welt-haha-17/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/02/03/bellevue-31/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/02/05/atmosphaerisch-anaemisch-48/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/02/08/paradestrasse-67/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/02/11/humboldthain-80/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/02/14/innsbrucker-platz-106/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/02/19/kleistpark-134/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/02/23/wurstland-ostkreuz-156/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/02/27/rehberge-173/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/03/01/griebnitzsee-graffiti-191/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/03/04/das-nichts-vulg-westkreuz-202/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/03/07/treptower-park-225/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/03/10/alt-mariendorf-endstation-250/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/03/14/zwickauer-damm-258/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/03/16/wurstnachtrag-ostkreuz-280/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/03/20/ahrensfelde-endstation-288/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/03/27/stilles-stinken-320/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/03/30/das-jungfernheide-rolltreppendebakel-331/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/04/02/lichterfelder-burgertum-346/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/04/06/frankfurter-allee-rant-362/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/04/11/voltastrasse-gebrochenes-herz-390/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/04/16/die-ufa-fabrik-ullsteinstrasse-405/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/04/19/im-bunker-am-anhalter-bahnhof-433/"
-    },
-    {
-        "link": "http://blogs.faz.net/berlinabc/2015/04/22/zeuthener-zugangsbeschrankung-444/"
-    },
+    { "link": "http://blogs.faz.net/berlinabc/2015/02/03/hallo-welt-haha-17/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/02/03/bellevue-31/" }, 
+    { "link": "http://blogs.faz.net/berlinabc/2015/02/05/atmosphaerisch-anaemisch-48/" }, 
+    { "link": "http://blogs.faz.net/berlinabc/2015/02/08/paradestrasse-67/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/02/11/humboldthain-80/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/02/14/innsbrucker-platz-106/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/02/19/kleistpark-134/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/02/23/wurstland-ostkreuz-156/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/02/27/rehberge-173/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/03/01/griebnitzsee-graffiti-191/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/03/04/das-nichts-vulg-westkreuz-202/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/03/07/treptower-park-225/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/03/10/alt-mariendorf-endstation-250/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/03/14/zwickauer-damm-258/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/03/16/wurstnachtrag-ostkreuz-280/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/03/20/ahrensfelde-endstation-288/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/03/27/stilles-stinken-320/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/03/30/das-jungfernheide-rolltreppendebakel-331/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/04/02/lichterfelder-burgertum-346/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/04/06/frankfurter-allee-rant-362/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/04/11/voltastrasse-gebrochenes-herz-390/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/04/16/die-ufa-fabrik-ullsteinstrasse-405/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/04/19/im-bunker-am-anhalter-bahnhof-433/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/04/22/zeuthener-zugangsbeschrankung-444/" },
     { "link": "http://blogs.faz.net/berlinabc/2015/04/27/warschauer-strasse-erlebnispark-raw-1-464/" },
     { "link": "http://blogs.faz.net/berlinabc/2015/04/30/warschauer-strasse-erlebnispark-raw-2-479/" },
     { "link": "http://blogs.faz.net/berlinabc/2015/05/04/neues-altes-spielzeug-aus-der-eisenacher-strasse-522/" },
     { "link": "http://blogs.faz.net/berlinabc/2015/05/08/arbeit-in-zeiten-des-bahnstreiks-462/" },
     { "link": "http://blogs.faz.net/berlinabc/2015/05/12/parchimer-allee-563/" },
-    { "link": "http://blogs.faz.net/berlinabc/2015/05/15/blankenburg-574/" }
+    { "link": "http://blogs.faz.net/berlinabc/2015/05/15/blankenburg-574/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/05/18/kunstunterricht-am-ostkreuz-606/" },
+    { "link": "http://blogs.faz.net/berlinabc/2015/05/20/platz-der-wurstbruecke-613/" }
 ]
