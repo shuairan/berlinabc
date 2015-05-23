@@ -334,28 +334,6 @@
         "name": "Bahnhof Berlin-Lichterfelde West",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Lichterfelde_West"
     },
-    "Bahnhof Berlin-Rummelsburg (S-Bahn)": {
-        "articles": [
-            {
-                "author": "katrin-roenicke",
-                "description": "<p>Ein Mensch und so viel Gestank! Viele Menschen und so viel Hilflosigkeit drum herum. Und Ignoranz. Alle sind angewidert. Aber was soll man schon machen. Stinkende Menschen sind Teil der berliner S-Bahn-Realit\u00e4t geworden.  <a href=\"http://blogs.faz.net/berlinabc/2015/03/27/stilles-stinken-320/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/03/27/stilles-stinken-320/",
-                "published": "27. M\u00e4r, 2015",
-                "tags": [
-                    "Allgemein",
-                    "Armut",
-                    "S-Bahn Berlin"
-                ],
-                "title": "Stilles Stinken"
-            }
-        ],
-        "coordinates": [
-            52.5012,
-            13.4785
-        ],
-        "name": "Bahnhof Berlin-Rummelsburg (S-Bahn)",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Rummelsburg_(S-Bahn)"
-    },
     "Bahnhof Berlin-Tempelhof": {
         "articles": [
             {
@@ -699,6 +677,18 @@
                     "Allgemein"
                 ],
                 "title": "Hallo Welt (haha!)"
+            },
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Ein Mensch und so viel Gestank! Viele Menschen und so viel Hilflosigkeit drum herum. Und Ignoranz. Alle sind angewidert. Aber was soll man schon machen. Stinkende Menschen sind Teil der berliner S-Bahn-Realit\u00e4t geworden.  <a href=\"http://blogs.faz.net/berlinabc/2015/03/27/stilles-stinken-320/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/03/27/stilles-stinken-320/",
+                "published": "27. M\u00e4r, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Armut",
+                    "S-Bahn Berlin"
+                ],
+                "title": "Stilles Stinken"
             },
             {
                 "author": "katrin-roenicke",

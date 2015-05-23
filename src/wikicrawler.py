@@ -5,7 +5,7 @@ import itertools
 import re
 
 WIKIPEDIA_API="https://de.wikipedia.org/w/api.php"
-BLACKLIST = ['Bahnhof', 'Bahnhöfe', 'Bahn', 'Berlin', 'Liste', 'der', 'Raum', 'Endstation', 'Alle', 'einer', 'Platz', 'Straße']
+BLACKLIST = ['Bahnhof', 'Bahnhöfe', 'Bahn', 'S-Bahn', 'S Bahn', 'Berlin', 'Liste', 'der', 'Raum', 'Endstation', 'Alle', 'einer', 'Platz', 'Straße']
 
 def rec_rsplit(x):
     splitted = x.rsplit(" ", 1)
