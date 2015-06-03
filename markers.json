@@ -205,6 +205,28 @@
         "name": "Bahnhof Berlin Ostkreuz",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Ostkreuz"
     },
+    "Bahnhof Berlin Storkower Stra\u00dfe": {
+        "articles": [
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Wenn man am S-Bahnhof Storkower Stra\u00dfe ankommt, dann gibt es zwei Richtungen, in die man gehen kann: Nach Norden raus und nach S\u00fcden raus. Heute gehen wir einmal nach S\u00fcden raus, das mit dem Norden m\u00fcssen wir nachholen. \u201eAls ich &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/05/25/storkower-strasse-die-eine-seite-623/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/05/25/storkower-strasse-die-eine-seite-623/",
+                "published": "25. Mai, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Pankow",
+                    "Ringbahn"
+                ],
+                "title": "Storkower Stra\u00dfe (die eine Seite)"
+            }
+        ],
+        "coordinates": [
+            52.5238,
+            13.4644
+        ],
+        "name": "Bahnhof Berlin Storkower Stra\u00dfe",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Storkower_Stra\u00dfe"
+    },
     "Bahnhof Berlin Treptower Park": {
         "articles": [
             {
@@ -287,6 +309,30 @@
         "name": "Bahnhof Berlin Westkreuz",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin_Westkreuz"
     },
+    "Bahnhof Berlin-Baumschulenweg": {
+        "articles": [
+            {
+                "author": "katrin-roenicke",
+                "description": "<p>Als also gestern in der S-Bahn die Durchsage kam: \u201eBaumschulenweg\u201c \u2013 da musste ich aufspringen. Es sind die letzten Tage im Mai! Bestimmt bl\u00fcht es dort wie irre! Also raus und in den Bus und hinein ins Gr\u00fcne! <a href=\"http://blogs.faz.net/berlinabc/2015/05/29/die-angewurzelten-in-baumschulenweg-644/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/katrin-roenicke/\">katrin-roenicke</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/05/29/die-angewurzelten-in-baumschulenweg-644/",
+                "published": "29. Mai, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Baumschulenweg",
+                    "Biologie",
+                    "Fr\u00fchling",
+                    "Treptow-K\u00f6penick"
+                ],
+                "title": "Die Angewurzelten in Baumschulenweg"
+            }
+        ],
+        "coordinates": [
+            52.4675,
+            13.4897
+        ],
+        "name": "Bahnhof Berlin-Baumschulenweg",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Baumschulenweg"
+    },
     "Bahnhof Berlin-Blankenburg": {
         "articles": [
             {
@@ -334,26 +380,6 @@
         "name": "Bahnhof Berlin-Lichterfelde West",
         "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Lichterfelde_West"
     },
-    "Bahnhof Berlin-Tempelhof": {
-        "articles": [
-            {
-                "author": "holgerklein",
-                "description": "<p>Wenn man am Bahnhof Tempelhof barrierefrei von der U- in die S-Bahn umsteigen will, f\u00e4hrt man mit einem Aufzug hoch in die Mitte des Tempelhofer Dammes Dann eiert man die Mittelinsel entlang Und stellt sich &#8211; hoffentlich nicht im Regen, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
-                "link": "http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/",
-                "published": "18. Feb, 2015",
-                "tags": [
-                    "Allgemein"
-                ],
-                "title": "Barrierearmut"
-            }
-        ],
-        "coordinates": [
-            52.4708,
-            13.3854
-        ],
-        "name": "Bahnhof Berlin-Tempelhof",
-        "wikipedia_link": "https://de.wikipedia.org/wiki/Bahnhof_Berlin-Tempelhof"
-    },
     "Bahnhof Potsdam Griebnitzsee": {
         "articles": [
             {
@@ -365,6 +391,20 @@
                     "Allgemein"
                 ],
                 "title": "Griebnitzsee-Graffiti"
+            },
+            {
+                "author": "holgerklein",
+                "description": "<p>Ich arbeite nicht t\u00e4glich, aber regelm\u00e4\u00dfig beim ARD Videotext (Ja, das gibt es noch und es wird auch reichlich genutzt. Nicht zuletzt, weil wir eine sehr schlanke, schnelle Variante f\u00fcr Web und Smartphones anbieten, die selbst in der fahrenden U-Bahn &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/05/26/fahrradgaragen-am-griebnitzsee-637/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/05/26/fahrradgaragen-am-griebnitzsee-637/",
+                "published": "26. Mai, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Fahrrad",
+                    "Griebnitzsee",
+                    "Potsdam",
+                    "s7"
+                ],
+                "title": "Fahrradgaragen am Griebnitzsee"
             }
         ],
         "coordinates": [
@@ -452,6 +492,26 @@
         "name": "U-Bahnhof Alt-Mariendorf",
         "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Alt-Mariendorf"
     },
+    "U-Bahnhof Alt-Tempelhof": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Wenn man am Bahnhof Tempelhof barrierefrei von der U- in die S-Bahn umsteigen will, f\u00e4hrt man mit einem Aufzug hoch in die Mitte des Tempelhofer Dammes Dann eiert man die Mittelinsel entlang Und stellt sich &#8211; hoffentlich nicht im Regen, &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/02/18/barrierearmut-130/",
+                "published": "18. Feb, 2015",
+                "tags": [
+                    "Allgemein"
+                ],
+                "title": "Barrierearmut"
+            }
+        ],
+        "coordinates": [
+            52.466,
+            13.3859
+        ],
+        "name": "U-Bahnhof Alt-Tempelhof",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Alt-Tempelhof"
+    },
     "U-Bahnhof Eisenacher Stra\u00dfe": {
         "articles": [
             {
@@ -499,6 +559,31 @@
         ],
         "name": "U-Bahnhof Kleistpark",
         "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Kleistpark"
+    },
+    "U-Bahnhof Leopoldplatz": {
+        "articles": [
+            {
+                "author": "holgerklein",
+                "description": "<p>Ich musste zum Leopoldplatz und hatte noch ein wenig Zeit, mir die Gegend anzusehen. Hier steht ein Karstadt-Kaufhaus, das aussieht, wie in einer dieser langweiligen, westdeutschen Fu\u00dfg\u00e4ngerzonen der 1970er Jahre. Im Gegensatz zu den Kleinstadtruinen ist\u00a0dieser Karstadt allerdings noch ge\u00f6ffnet &#8230; <a href=\"http://blogs.faz.net/berlinabc/2015/06/01/scheitern-am-leopoldplatz-658/\">Weiterlesen <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>von <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc/author/holgerklein/\">holgerklein</a> erschienen in <a rel=\"nofollow\" href=\"http://blogs.faz.net/berlinabc\">Berlin ABC</a> ein Blog von <a href=http://www.faz.net/>FAZ.NET</a>.</p>",
+                "link": "http://blogs.faz.net/berlinabc/2015/06/01/scheitern-am-leopoldplatz-658/",
+                "published": "01. Jun, 2015",
+                "tags": [
+                    "Allgemein",
+                    "Einzelhandel",
+                    "Leopoldplatz",
+                    "U6",
+                    "U9",
+                    "Wedding"
+                ],
+                "title": "Scheitern am Leopoldplatz"
+            }
+        ],
+        "coordinates": [
+            52.5465,
+            13.3591
+        ],
+        "name": "U-Bahnhof Leopoldplatz",
+        "wikipedia_link": "https://de.wikipedia.org/wiki/U-Bahnhof_Leopoldplatz"
     },
     "U-Bahnhof Paradestra\u00dfe": {
         "articles": [
